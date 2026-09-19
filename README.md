@@ -2,6 +2,10 @@
 
 Una PWA mobile-first per allenare il lessico italiano B1–C1 nel contesto, con particolare attenzione al lavoro, al business e alla tecnologia.
 
+## Versione online
+
+https://chenpihuamei.github.io/italiano-flow/
+
 ## Funzioni incluse
 
 - 50 parole e 150 esempi contestuali.
