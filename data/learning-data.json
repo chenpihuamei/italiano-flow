@@ -1,0 +1,200 @@
+{
+  "generatedAt": "2026-09-10T18:17:19.338Z",
+  "profile": {
+    "selfAssessedLevel": "B1–C1",
+    "baselineStatus": "progressi salvati solo su questo dispositivo"
+  },
+  "lesson": {
+    "id": "D01",
+    "status": "prepared-not-assessed",
+    "title": "L’intelligenza artificiale cresce, ma non tutte le imprese procedono allo stesso ritmo",
+    "summary": "Una lettura B2 su tecnologia, competenze, divario tra imprese e valore professionale.",
+    "wordCount": 539,
+    "paragraphs": [
+      "Negli ultimi anni l’adozione dell’intelligenza artificiale nelle imprese italiane ha accelerato in modo evidente. Secondo l’Istat, nel 2025 il 16,4% delle aziende con almeno dieci addetti utilizzava almeno una tecnologia di IA, contro l’8,2% dell’anno precedente. La quota è quindi raddoppiata in un solo anno. Tuttavia, questo incremento non significa che la trasformazione digitale sia ormai uniforme: la maggior parte delle imprese continua a non usare alcuna soluzione di IA e il ritmo del cambiamento varia notevolmente in base alla dimensione, al settore e al territorio.",
+      "Il dato più significativo riguarda il divario tra le grandi aziende e le piccole e medie imprese. Nel 2025 più della metà delle grandi imprese utilizzava l’IA, mentre tra le PMI la percentuale era pari al 15,7%. Sebbene anche le aziende più piccole siano cresciute, la distanza rispetto alle organizzazioni maggiori si è ampliata. Il Nord-ovest, dove si trova Milano, ha registrato una diffusione superiore alla media nazionale; ciò nonostante, sarebbe sbagliato concludere che tutte le imprese della zona abbiano raggiunto lo stesso livello di maturità digitale. Per colmare questa distanza non basta quindi acquistare nuovi strumenti.",
+      "Uno dei problemi principali è la mancanza di competenze adeguate. Quasi il 60% delle aziende che aveva valutato l’IA senza poi realizzare gli investimenti previsti ha indicato proprio questa carenza come un ostacolo. In altre parole, il prezzo del software non è l’unico elemento che può frenare un progetto. Un’impresa deve anche saper individuare un problema concreto, preparare dati di qualità, formare i dipendenti e assegnare responsabilità chiare. Se queste condizioni non vengono soddisfatte, uno strumento teoricamente efficace rischia di produrre risultati poco utili o difficili da controllare.",
+      "Le applicazioni già presenti mostrano comunque una notevole varietà. Tra le imprese che usano l’IA, sono particolarmente comuni l’estrazione di informazioni dai documenti, l’IA generativa e il riconoscimento vocale. Gli ambiti aziendali più coinvolti sono il marketing e le vendite, i processi amministrativi e la ricerca e sviluppo. L’automatizzazione può ridurre il tempo dedicato ad attività ripetitive; affinché generi un beneficio reale, però, occorre analizzare e spesso riorganizzare i flussi di lavoro. Automatizzare un processo confuso, infatti, può rendere più veloce anche la produzione di errori.",
+      "Questa trasformazione modifica anche il contributo dei professionisti. Un designer non dovrebbe limitarsi a rendere gradevole l’interfaccia di un nuovo strumento: deve comprendere i bisogni degli utenti, osservare come viene svolto il lavoro e progettare modalità di utilizzo accessibili e affidabili. Chi lavora nel Business Development, invece, deve saper tradurre una capacità tecnica in una proposta di valore comprensibile, senza promettere risultati che non siano stati verificati. I due ruoli sono diversi, ma complementari: il primo può valorizzare l’esperienza dell’utente, mentre il secondo collega la soluzione alle priorità economiche e strategiche del cliente.",
+      "Nel frattempo, secondo l’Osservatorio Artificial Intelligence del Politecnico di Milano, nel 2025 gli annunci di lavoro italiani che richiedevano competenze di IA sono aumentati sensibilmente. Ciò non implica che ogni candidato debba diventare programmatore. Significa piuttosto che sarà sempre più importante saper discutere con precisione i limiti, i rischi e gli effetti organizzativi della tecnologia. Durante un colloquio, conoscere il nome di molti strumenti può colpire inizialmente; un vero vantaggio competitivo, però, emerge quando il candidato sa spiegare quale problema affrontare, quali persone coinvolgere, come misurare i risultati e che cosa fare qualora il progetto non funzioni come previsto."
+    ]
+  },
+  "vocabulary": [
+    {
+      "id": "D01-V01",
+      "term": "l’adozione",
+      "definition": "il processo con cui si comincia a usare qualcosa",
+      "collocation": "adozione di una tecnologia"
+    },
+    {
+      "id": "D01-V02",
+      "term": "raddoppiare",
+      "definition": "diventare due volte più grande",
+      "collocation": "la percentuale è raddoppiata"
+    },
+    {
+      "id": "D01-V03",
+      "term": "gli addetti",
+      "definition": "le persone che lavorano in un’impresa o settore",
+      "collocation": "un’impresa con dieci addetti"
+    },
+    {
+      "id": "D01-V04",
+      "term": "un incremento",
+      "definition": "un aumento misurabile",
+      "collocation": "registrare un incremento"
+    },
+    {
+      "id": "D01-V05",
+      "term": "il divario",
+      "definition": "una distanza o differenza importante",
+      "collocation": "ridurre/ampliare il divario"
+    },
+    {
+      "id": "D01-V06",
+      "term": "colmare",
+      "definition": "riempire una distanza o eliminare una mancanza",
+      "collocation": "colmare il divario"
+    },
+    {
+      "id": "D01-V07",
+      "term": "le competenze",
+      "definition": "conoscenze e capacità applicabili",
+      "collocation": "sviluppare/acquisire competenze"
+    },
+    {
+      "id": "D01-V08",
+      "term": "frenare",
+      "definition": "rallentare o impedire un processo",
+      "collocation": "frenare l’adozione"
+    },
+    {
+      "id": "D01-V09",
+      "term": "valutare",
+      "definition": "analizzare prima di decidere",
+      "collocation": "valutare un’opportunità"
+    },
+    {
+      "id": "D01-V10",
+      "term": "gli investimenti",
+      "definition": "risorse impiegate per ottenere risultati futuri",
+      "collocation": "realizzare/attrarre investimenti"
+    },
+    {
+      "id": "D01-V11",
+      "term": "la diffusione",
+      "definition": "il processo con cui qualcosa diventa più comune",
+      "collocation": "favorire la diffusione"
+    },
+    {
+      "id": "D01-V12",
+      "term": "l’estrazione",
+      "definition": "l’azione di ricavare qualcosa da una fonte",
+      "collocation": "estrazione di informazioni"
+    },
+    {
+      "id": "D01-V13",
+      "term": "l’automatizzazione",
+      "definition": "trasformazione di un’attività in un processo automatico",
+      "collocation": "automatizzazione dei processi"
+    },
+    {
+      "id": "D01-V14",
+      "term": "i flussi di lavoro",
+      "definition": "la sequenza di attività necessarie per completare un compito",
+      "collocation": "analizzare i flussi di lavoro"
+    },
+    {
+      "id": "D01-V15",
+      "term": "un ambito",
+      "definition": "un settore o campo di attività",
+      "collocation": "in ambito aziendale"
+    },
+    {
+      "id": "D01-V16",
+      "term": "riorganizzare",
+      "definition": "organizzare di nuovo in modo diverso",
+      "collocation": "riorganizzare un processo"
+    },
+    {
+      "id": "D01-V17",
+      "term": "affidabile",
+      "definition": "di cui ci si può fidare",
+      "collocation": "dati/risultati affidabili"
+    },
+    {
+      "id": "D01-V18",
+      "term": "valorizzare",
+      "definition": "riconoscere e aumentare il valore di qualcosa",
+      "collocation": "valorizzare un’esperienza"
+    },
+    {
+      "id": "D01-V19",
+      "term": "tradurre X in Y",
+      "definition": "trasformare un elemento astratto in un risultato comprensibile",
+      "collocation": "tradurre la tecnologia in valore"
+    },
+    {
+      "id": "D01-V20",
+      "term": "un vantaggio competitivo",
+      "definition": "una caratteristica che permette di ottenere risultati migliori dei concorrenti",
+      "collocation": "creare un vantaggio competitivo"
+    }
+  ],
+  "cards": [
+    {
+      "id": "IT-0001",
+      "front": "写出 cretino 的四个性数形式",
+      "back": "cretino; cretina; cretini; cretine",
+      "example": "Che idea cretina! / Non fate i cretini."
+    },
+    {
+      "id": "IT-0002",
+      "front": "`Non fare la cretina` 更接近什么？",
+      "back": "别犯傻/别装傻；强度由关系和语气决定，不一定等于强烈辱骂。",
+      "example": "Dai, non fare la cretina e ascoltami."
+    },
+    {
+      "id": "IT-0003",
+      "front": "`sapessi` 是什么形式？",
+      "back": "`sapere` 的 congiuntivo imperfetto；可为 io 或 tu。",
+      "example": "Se sapessi la risposta, te la direi."
+    },
+    {
+      "id": "IT-0004",
+      "front": "完成 sapere 的 congiuntivo imperfetto：io/tu/lui-noi-voi-loro",
+      "back": "sapessi; sapessi; sapesse; sapessimo; sapeste; sapessero",
+      "example": "Pensavo che voi sapeste già tutto."
+    },
+    {
+      "id": "IT-0005",
+      "front": "还原 `Sapessi tu a me!`",
+      "back": "Se tu sapessi quanto mi esasperi anche tu! / Se tu sapessi quanto dai fastidio a me!",
+      "example": "Tu mi esasperi. — Sapessi tu a me!"
+    },
+    {
+      "id": "IT-0006",
+      "front": "把 `Sapessi tu a me!` 换成两种自然英语回应",
+      "back": "You should talk! / If you only knew how much you annoy me!",
+      "example": "语气较冲时也可近似 Look who's talking!"
+    },
+    {
+      "id": "IT-0007",
+      "front": "拆解 `andatevene` 的三个部分",
+      "back": "andate + ve + ne；来自代词式动词 `andarsene`，是 voi 命令式。",
+      "example": "Non andatevene per primi."
+    },
+    {
+      "id": "IT-0008",
+      "front": "完成 `andarsene` 现在时：io-tu-lui/lei-noi-voi-loro",
+      "back": "me ne vado; te ne vai; se ne va; ce ne andiamo; ve ne andate; se ne vanno",
+      "example": "Ce ne andiamo dopo la riunione."
+    },
+    {
+      "id": "IT-0009",
+      "front": "把 `Non andatevene per primi` 改成代词前置，并改为全女性群体",
+      "back": "Non ve ne andate per prime.",
+      "example": "Ragazze, non ve ne andate per prime."
+    }
+  ]
+}

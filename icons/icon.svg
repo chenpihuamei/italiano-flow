@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Italiano Flow">
+  <rect width="512" height="512" rx="128" fill="#173b45"/>
+  <circle cx="405" cy="420" r="138" fill="#f06f55"/>
+  <path d="M115 122h69v268h-69z" fill="#fffdf8"/>
+  <path d="M224 122h177v61H293v54h95v60h-95v93h-69z" fill="#fffdf8"/>
+</svg>

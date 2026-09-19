@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#173b45" />
+    <meta name="description" content="Italiano Flow — mobile Italian workplace learning" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Italiano Flow</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Vai al contenuto</a>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-lockup">
+          <div class="brand-mark" aria-hidden="true">IF</div>
+          <div>
+            <p class="eyebrow">Italiano per il lavoro</p>
+            <h1>Italiano Flow</h1>
+          </div>
+        </div>
+        <button class="icon-button" id="installButton" type="button" hidden aria-label="Installa l'app">＋</button>
+      </header>
+
+      <main id="main-content">
+        <section class="view is-active" data-view="today" aria-labelledby="today-title">
+          <div class="hero-card">
+            <div>
+              <p class="eyebrow" id="todayDate">Oggi</p>
+              <h2 id="today-title">Buongiorno!</h2>
+              <p class="hero-copy">Un passo concreto verso un italiano più naturale.</p>
+            </div>
+            <div class="level-pill">B1 → C1</div>
+          </div>
+
+          <section class="progress-card" aria-labelledby="daily-goal-title">
+            <div class="progress-ring" id="vocabRing" aria-label="Progresso parole del giorno">
+              <span id="vocabProgress">0/20</span>
+            </div>
+            <div>
+              <p class="eyebrow">Obiettivo quotidiano</p>
+              <h3 id="daily-goal-title">20 parole nel contesto</h3>
+              <p id="progressHint">Apri la lezione e scopri il primo termine.</p>
+            </div>
+          </section>
+
+          <section aria-labelledby="focus-title">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Percorso di oggi</p>
+                <h3 id="focus-title">Lettura + logica</h3>
+              </div>
+              <span class="duration">45–60 min</span>
+            </div>
+            <article class="lesson-card">
+              <div class="lesson-meta">
+                <span class="tag">B2</span>
+                <span>Business · Tecnologia</span>
+              </div>
+              <h4 id="lessonTitle">Caricamento della lezione…</h4>
+              <p id="lessonSummary"></p>
+              <div class="lesson-actions">
+                <button class="primary-button" type="button" data-go="learn">Continua la lezione</button>
+                <button class="secondary-button" id="reviewShortcut" type="button">Ripassa le carte</button>
+              </div>
+            </article>
+          </section>
+
+          <section aria-labelledby="quick-title">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Azioni rapide</p>
+                <h3 id="quick-title">Impara dal mondo reale</h3>
+              </div>
+            </div>
+            <div class="quick-grid">
+              <button class="quick-card quick-card-featured" type="button" data-go="training">
+                <span class="quick-icon" aria-hidden="true">50</span>
+                <strong>Allenati con 50 parole</strong>
+                <small>6 tipi di domanda · almeno 150 esempi</small>
+              </button>
+              <button class="quick-card" type="button" data-go="resources">
+                <span class="quick-icon" aria-hidden="true">↗</span>
+                <strong>Trova risorse</strong>
+                <small>Business, design, tecnologia</small>
+              </button>
+              <button class="quick-card" type="button" data-go="subtitles">
+                <span class="quick-icon" aria-hidden="true">CC</span>
+                <strong>Importa sottotitoli</strong>
+                <small>SRT e VTT, solo sul dispositivo</small>
+              </button>
+            </div>
+          </section>
+        </section>
+
+        <section class="view" data-view="training" aria-labelledby="training-title">
+          <div class="page-heading training-heading">
+            <div>
+              <p class="eyebrow">B1 → C1 · lessico vivo</p>
+              <h2 id="training-title">50 parole, dentro le frasi</h2>
+              <p>Non memorizzare una traduzione sola: osserva come forma, tempo e costruzione cambiano il significato.</p>
+            </div>
+            <div class="training-overview" aria-label="Contenuto del percorso">
+              <span><strong>50</strong> parole</span>
+              <span><strong>150+</strong> esempi</span>
+              <span><strong>6</strong> tipi</span>
+            </div>
+          </div>
+
+          <div class="training-mode-row" role="group" aria-label="Scegli il tipo di esercizio">
+            <button class="training-mode is-active" type="button" data-training-mode="mixed">Percorso misto</button>
+            <button class="training-mode" type="button" data-training-mode="meaning">Scegli il significato</button>
+            <button class="training-mode" type="button" data-training-mode="lookalike">Parole simili</button>
+            <button class="training-mode" type="button" data-training-mode="context">Completa il contesto</button>
+            <button class="training-mode" type="button" data-training-mode="grammar">Tempo e forma</button>
+            <button class="training-mode" type="button" data-training-mode="sense">Significato nel contesto</button>
+            <button class="training-mode" type="button" data-training-mode="phrase">Espressioni</button>
+          </div>
+
+          <section class="training-card" id="trainingCard" aria-labelledby="training-question">
+            <div class="training-progress-row">
+              <div>
+                <span class="question-type" id="trainingType">Percorso misto</span>
+                <span class="level-chip" id="trainingLevel">B1–C1</span>
+              </div>
+              <strong id="trainingCounter">1 / 50</strong>
+            </div>
+            <div class="training-progress-track" aria-hidden="true"><i id="trainingProgressBar"></i></div>
+            <p class="training-lemma" id="trainingLemma"></p>
+            <h3 id="training-question">Caricamento della domanda…</h3>
+            <div class="training-options" id="trainingOptions" role="group" aria-label="Possibili risposte"></div>
+            <div class="training-feedback" id="trainingFeedback" hidden aria-live="polite">
+              <p class="feedback-result" id="trainingResult"></p>
+              <p id="trainingExplanation"></p>
+              <div class="word-relations">
+                <div><span>Famiglia / strutture</span><strong id="trainingFamily"></strong></div>
+                <div><span>Attenzione a</span><strong id="trainingLookalikes"></strong></div>
+              </div>
+              <div class="example-stack" id="trainingExamples"></div>
+              <button class="primary-button full-width" id="nextTrainingQuestion" type="button">Prossima domanda</button>
+            </div>
+          </section>
+
+          <p class="assessment-note">Il punteggio misura soltanto il ripasso di questo mazzo. Non certifica il tuo livello CEFR.</p>
+        </section>
+
+        <section class="view" data-view="learn" aria-labelledby="learn-title">
+          <div class="page-heading">
+            <p class="eyebrow">Lezione preparata</p>
+            <h2 id="learn-title">Lettura B2</h2>
+            <p>Prima leggi senza dizionario. Poi apri le parole una alla volta.</p>
+          </div>
+          <article class="reading-card">
+            <div class="lesson-meta">
+              <span class="tag">B2/B2+</span>
+              <span id="articleWordCount">≈ 560 parole</span>
+            </div>
+            <h3 id="articleTitle"></h3>
+            <div class="article-body" id="articleBody"></div>
+          </article>
+          <section aria-labelledby="vocab-title">
+            <div class="section-heading sticky-heading">
+              <div>
+                <p class="eyebrow">Lessico attivo</p>
+                <h3 id="vocab-title">20 parole nel contesto</h3>
+              </div>
+              <span class="counter" id="openedCounter">0 aperte</span>
+            </div>
+            <div class="vocab-list" id="vocabList"></div>
+          </section>
+        </section>
+
+        <section class="view" data-view="resources" aria-labelledby="resources-title">
+          <div class="page-heading">
+            <p class="eyebrow">Curatore automatico</p>
+            <h2 id="resources-title">Risorse selezionate</h2>
+            <p>Il demo conserva solo metadati e link. Il contenuto completo resta sul sito originale.</p>
+          </div>
+          <div class="policy-banner">
+            <strong>Uso responsabile delle fonti</strong>
+            <span>RSS pubblico → filtro → link. Nessun articolo completo viene ripubblicato.</span>
+          </div>
+          <div class="filter-row" role="group" aria-label="Filtra risorse">
+            <button class="filter-chip is-active" type="button" data-filter="all">Tutte</button>
+            <button class="filter-chip" type="button" data-filter="business">Business</button>
+            <button class="filter-chip" type="button" data-filter="technology">Tecnologia</button>
+            <button class="filter-chip" type="button" data-filter="work">Lavoro</button>
+            <button class="filter-chip" type="button" data-filter="video">Video</button>
+          </div>
+          <div class="resource-list" id="resourceList" aria-live="polite"></div>
+          <details class="system-note">
+            <summary>Come si aggiorna?</summary>
+            <p>In locale si esegue <code>scripts/refresh-resources.mjs</code>. Su GitHub potrà essere eseguito ogni mattina e pubblicare un nuovo file JSON dopo la verifica delle fonti.</p>
+          </details>
+        </section>
+
+        <section class="view" data-view="subtitles" aria-labelledby="subtitles-title">
+          <div class="page-heading">
+            <p class="eyebrow">Subtitle Lab</p>
+            <h2 id="subtitles-title">Da video a esercizio</h2>
+            <p>Carica un file autorizzato o incolla i sottotitoli. Tutto viene elaborato nel browser.</p>
+          </div>
+          <section class="upload-card" aria-labelledby="upload-title">
+            <h3 id="upload-title">Importa SRT / VTT</h3>
+            <label class="file-drop" for="subtitleFile">
+              <span class="upload-icon" aria-hidden="true">CC</span>
+              <strong>Scegli un file</strong>
+              <small>.srt o .vtt · nessun upload al server</small>
+            </label>
+            <input id="subtitleFile" type="file" accept=".srt,.vtt,text/vtt,application/x-subrip" />
+            <label class="field-label" for="subtitlePaste">Oppure incolla il testo</label>
+            <textarea id="subtitlePaste" rows="7" placeholder="1&#10;00:00:01,000 --> 00:00:04,000&#10;Buongiorno, iniziamo la riunione…"></textarea>
+            <button class="primary-button full-width" id="parseSubtitles" type="button">Analizza i sottotitoli</button>
+            <p class="form-message" id="subtitleMessage" role="status"></p>
+          </section>
+          <section id="subtitleResults" hidden aria-labelledby="subtitle-result-title">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Risultato locale</p>
+                <h3 id="subtitle-result-title">Pacchetto di studio</h3>
+              </div>
+              <span class="counter" id="cueCount"></span>
+            </div>
+            <div class="candidate-list" id="candidateList"></div>
+            <div class="cue-list" id="cueList"></div>
+          </section>
+        </section>
+
+        <section class="view" data-view="progress" aria-labelledby="progress-title">
+          <div class="page-heading">
+            <p class="eyebrow">Tracciabilità</p>
+            <h2 id="progress-title">Progressi e sistema</h2>
+            <p>L’app distingue il materiale disponibile, le attività completate e il livello ancora da verificare.</p>
+          </div>
+          <section class="skills-card" aria-labelledby="skills-title">
+            <h3 id="skills-title">Competenze — baseline in corso</h3>
+            <div class="skill-row"><span>Lettura</span><div class="bar"><i style="width: 38%"></i></div><small>materiale pronto</small></div>
+            <div class="skill-row"><span>Ascolto</span><div class="bar"><i style="width: 12%"></i></div><small>da testare</small></div>
+            <div class="skill-row"><span>Parlato</span><div class="bar"><i style="width: 12%"></i></div><small>da testare</small></div>
+            <div class="skill-row"><span>Scrittura</span><div class="bar"><i style="width: 12%"></i></div><small>da testare</small></div>
+          </section>
+          <section class="system-card" aria-labelledby="system-title">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Privacy locale</p>
+                <h3 id="system-title">I tuoi dati restano sul dispositivo</h3>
+              </div>
+              <span class="status-badge status-local">Solo browser</span>
+            </div>
+            <ul class="clean-list">
+              <li>Le risposte e i progressi vengono salvati nel browser che stai usando.</li>
+              <li>I sottotitoli SRT/VTT vengono elaborati localmente e non sono caricati su un server.</li>
+              <li>Su un altro telefono o browser inizierai con un progresso separato.</li>
+            </ul>
+          </section>
+          <section class="system-card" aria-labelledby="data-title">
+            <h3 id="data-title">Che cosa contiene questa versione</h3>
+            <ul class="clean-list">
+              <li>50 parole B1–C1, 150 esempi e sei modalità di esercizio.</li>
+              <li>Una lettura B2 e collegamenti a risorse pubbliche selezionate.</li>
+              <li>Nessun account, profilo personale o sincronizzazione tra dispositivi.</li>
+            </ul>
+          </section>
+        </section>
+
+        <dialog id="reviewDialog" class="review-dialog">
+          <form method="dialog">
+            <button class="dialog-close" aria-label="Chiudi">×</button>
+            <p class="eyebrow">Ripasso attivo</p>
+            <h2 id="cardFront">Caricamento…</h2>
+            <button class="secondary-button full-width" id="showAnswer" type="button">Mostra la risposta</button>
+            <div class="answer-panel" id="answerPanel" hidden>
+              <p id="cardBack"></p>
+              <div class="rating-row">
+                <button type="button" data-rating="again">Di nuovo</button>
+                <button type="button" data-rating="hard">Difficile</button>
+                <button type="button" data-rating="good">Bene</button>
+              </div>
+            </div>
+          </form>
+        </dialog>
+      </main>
+
+      <nav class="bottom-nav" aria-label="Navigazione principale">
+        <button class="nav-item is-active" type="button" data-nav="today"><span aria-hidden="true">⌂</span><small>Oggi</small></button>
+        <button class="nav-item" type="button" data-nav="training"><span aria-hidden="true">50</span><small>Allenati</small></button>
+        <button class="nav-item" type="button" data-nav="learn"><span aria-hidden="true">Aa</span><small>Impara</small></button>
+        <button class="nav-item" type="button" data-nav="subtitles"><span aria-hidden="true">CC</span><small>Sottotitoli</small></button>
+        <button class="nav-item" type="button" data-nav="progress"><span aria-hidden="true">↗</span><small>Progressi</small></button>
+      </nav>
+    </div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

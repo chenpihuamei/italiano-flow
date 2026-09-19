@@ -1,0 +1,2808 @@
+{
+  "version": "2026-09-19-v1",
+  "title": "50 parole vive — lavoro e progetti",
+  "levelRange": "B1–C1",
+  "levelPolicy": "I livelli sono stime editoriali tracciabili, non etichette CEFR assolute.",
+  "words": [
+    {
+      "id": "VF-001",
+      "lemma": "sodo",
+      "level": "B2",
+      "pos": "aggettivo / avverbio / locuzione",
+      "definitionIt": "compatto; con grande impegno; nella locuzione al sodo, al punto essenziale",
+      "definitionZh": "结实的；努力地；al sodo 表示直奔重点",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "media",
+      "lookalikes": [
+        "solo",
+        "saldo",
+        "sordo"
+      ],
+      "family": [
+        "rassodare",
+        "rassodamento"
+      ],
+      "meaningDistractors": [
+        "单独的、唯一的",
+        "余额充足或牢固的",
+        "听不见的、聋的"
+      ],
+      "examples": [
+        {
+          "form": "sodo",
+          "text": "Il terreno è abbastanza sodo da sostenere la nuova struttura.",
+          "translation": "地面足够坚实，可以支撑新结构。",
+          "note": "形容词：坚实、紧实。"
+        },
+        {
+          "form": "lavorare sodo",
+          "text": "Abbiamo lavorato sodo per consegnare il prototipo in tempo.",
+          "translation": "我们努力工作，以便按时交付原型。",
+          "note": "副词用法：努力地。"
+        },
+        {
+          "form": "andare al sodo",
+          "text": "Abbiamo poco tempo: andiamo al sodo e decidiamo le priorità.",
+          "translation": "时间不多了：我们直奔重点，决定优先事项吧。",
+          "note": "固定表达：进入核心问题。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Per rispettare la scadenza, abbiamo lavorato ___ tutta la settimana.",
+        "options": [
+          "sodo",
+          "solo",
+          "saldo",
+          "sordo"
+        ],
+        "answer": "sodo",
+        "explanation": "lavorare sodo 是固定搭配，表示努力工作；其他三个词虽然长得相近，但不能表达这种方式。"
+      }
+    },
+    {
+      "id": "VF-002",
+      "lemma": "tenere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "mantenere o reggere; attribuire valore con tenere a; considerare con tenere conto di",
+      "definitionZh": "拿着、保持；tenere a 表示在乎；tenere conto di 表示考虑到",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "tendere",
+        "temere",
+        "tenore"
+      ],
+      "family": [
+        "tenuta",
+        "trattenere"
+      ],
+      "meaningDistractors": [
+        "趋向、拉紧",
+        "害怕、担心",
+        "内容基调或生活水平"
+      ],
+      "examples": [
+        {
+          "form": "tenere",
+          "text": "Puoi tenere tu il campione mentre controllo le misure?",
+          "translation": "我检查尺寸时，你能帮我拿着样品吗？",
+          "note": "基本义：拿住、保持。"
+        },
+        {
+          "form": "tenere a qualcosa",
+          "text": "Tengo molto a questo progetto perché rappresenta due anni di ricerca.",
+          "translation": "我很重视这个项目，因为它代表了两年的研究。",
+          "note": "tenere a：在乎、重视。"
+        },
+        {
+          "form": "tenere conto di",
+          "text": "Nel preventivo dobbiamo tenere conto anche dei costi di manutenzione.",
+          "translation": "预算中我们还必须考虑维护成本。",
+          "note": "固定搭配：把某因素考虑进去。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Prima di scegliere il fornitore, bisogna ___ conto dei tempi di consegna.",
+        "options": [
+          "tenere",
+          "tendere",
+          "temere",
+          "tenore"
+        ],
+        "answer": "tenere",
+        "explanation": "tenere conto di qualcosa 表示考虑某事；tendere 和 temere 的结构、意义都不同。"
+      }
+    },
+    {
+      "id": "VF-003",
+      "lemma": "rendere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "far diventare; restituire; con rendersi conto, capire chiaramente",
+      "definitionZh": "使……变得、归还；rendersi conto 表示意识到",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "prendere",
+        "vendere",
+        "scendere"
+      ],
+      "family": [
+        "rendimento",
+        "resa"
+      ],
+      "meaningDistractors": [
+        "拿取、接受",
+        "出售",
+        "下降、下去"
+      ],
+      "examples": [
+        {
+          "form": "rendere + aggettivo",
+          "text": "Una gerarchia visiva chiara rende il report più leggibile.",
+          "translation": "清晰的视觉层级使报告更易读。",
+          "note": "使役结构：使某物变得……。"
+        },
+        {
+          "form": "rendersi conto di",
+          "text": "Durante il test ci siamo resi conto che il flusso era troppo lungo.",
+          "translation": "测试时我们意识到流程太长。",
+          "note": "代词式动词：意识到。"
+        },
+        {
+          "form": "rendere conto di",
+          "text": "Il responsabile dovrà rendere conto dei risultati al consiglio.",
+          "translation": "负责人必须向董事会汇报并对结果负责。",
+          "note": "不带 si：交代、说明并负责。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Dopo le interviste ci siamo ___ conto che il problema non era il prezzo.",
+        "options": [
+          "resi",
+          "presi",
+          "scesi",
+          "venduti"
+        ],
+        "answer": "resi",
+        "explanation": "rendersi conto 的复合时态使用 essere，并与主语 noi 配合为 ci siamo resi conto。"
+      }
+    },
+    {
+      "id": "VF-004",
+      "lemma": "contare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "calcolare un numero; avere importanza; con contare su, fare affidamento",
+      "definitionZh": "计数、重要；contare su 表示依靠",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "contattare",
+        "constatare",
+        "raccontare"
+      ],
+      "family": [
+        "conteggio",
+        "contabile"
+      ],
+      "meaningDistractors": [
+        "联系某人",
+        "确认某个事实",
+        "讲述故事"
+      ],
+      "examples": [
+        {
+          "form": "contare",
+          "text": "Il sondaggio conta 420 risposte valide.",
+          "translation": "这项调查共有420份有效答卷。",
+          "note": "计算或拥有某个数量。"
+        },
+        {
+          "form": "contare su",
+          "text": "Possiamo contare sul supporto del team legale.",
+          "translation": "我们可以依靠法务团队的支持。",
+          "note": "contare su：依赖、指望。"
+        },
+        {
+          "form": "contare",
+          "text": "In questa fase conta più la chiarezza della quantità di funzioni.",
+          "translation": "在这个阶段，清晰度比功能数量更重要。",
+          "note": "不及物：重要、有分量。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Per la revisione finale possiamo ___ sulla tua esperienza nel settore.",
+        "options": [
+          "contare",
+          "contattare",
+          "constatare",
+          "raccontare"
+        ],
+        "answer": "contare",
+        "explanation": "contare su qualcuno/qualcosa 表示依靠；contattare 则是主动联系。"
+      }
+    },
+    {
+      "id": "VF-005",
+      "lemma": "assumere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "prendere un incarico o una responsabilità; impiegare una persona; acquisire una forma",
+      "definitionZh": "承担、雇用；呈现某种形式",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "riassumere",
+        "presumere",
+        "consumare"
+      ],
+      "family": [
+        "assunzione",
+        "assunto"
+      ],
+      "meaningDistractors": [
+        "总结概括",
+        "推测、假定",
+        "消耗、消费"
+      ],
+      "examples": [
+        {
+          "form": "assumere una persona",
+          "text": "L'azienda prevede di assumere due service designer entro giugno.",
+          "translation": "公司计划在六月前招聘两名服务设计师。",
+          "note": "职场高频义：雇用。"
+        },
+        {
+          "form": "assumersi la responsabilità",
+          "text": "Mi sono assunto la responsabilità di coordinare la ricerca.",
+          "translation": "我承担了协调研究工作的责任。",
+          "note": "代词式 assumersi：主动承担。"
+        },
+        {
+          "form": "assumere una forma",
+          "text": "Con il tempo, la collaborazione ha assunto una forma più strutturata.",
+          "translation": "随着时间推移，合作呈现出更有结构的形式。",
+          "note": "书面义：呈现、具有。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "La società vuole ___ una persona con esperienza nei mercati europei.",
+        "options": [
+          "assumere",
+          "riassumere",
+          "presumere",
+          "consumare"
+        ],
+        "answer": "assumere",
+        "explanation": "assumere una persona 表示雇用；riassumere 是总结，不能少写前缀。"
+      }
+    },
+    {
+      "id": "VF-006",
+      "lemma": "affrontare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "occuparsi direttamente di un problema, una difficoltà o una situazione",
+      "definitionZh": "面对并处理问题、困难或情境",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "confrontare",
+        "raffrontare",
+        "fronteggiare"
+      ],
+      "family": [
+        "affronto",
+        "fronte"
+      ],
+      "meaningDistractors": [
+        "比较两个对象",
+        "对照分析",
+        "抵挡或应对威胁"
+      ],
+      "examples": [
+        {
+          "form": "affrontare un problema",
+          "text": "Il workshop ci ha aiutato ad affrontare il problema alla radice.",
+          "translation": "工作坊帮助我们从根源处理问题。",
+          "note": "直接处理具体问题。"
+        },
+        {
+          "form": "affrontare un colloquio",
+          "text": "Domani affronterò il colloquio con esempi più concreti.",
+          "translation": "明天我会用更具体的例子参加面试。",
+          "note": "面对需要投入精力的情境。"
+        },
+        {
+          "form": "affrontare un costo",
+          "text": "La startup non poteva affrontare una spesa così elevata.",
+          "translation": "这家初创公司无法承担如此高的费用。",
+          "note": "经济语境：承担费用。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Nel prossimo sprint dobbiamo ___ il problema dell'accessibilità.",
+        "options": [
+          "affrontare",
+          "confrontare",
+          "raffrontare",
+          "fronteggiare"
+        ],
+        "answer": "affrontare",
+        "explanation": "affrontare un problema 是最自然的搭配；confrontare 通常需要两个比较对象。"
+      }
+    },
+    {
+      "id": "VF-007",
+      "lemma": "svolgere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "eseguire un'attività; avere luogo nella forma pronominale svolgersi",
+      "definitionZh": "开展、执行；svolgersi 表示举行、发生",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "rivolgere",
+        "sciogliere",
+        "avvolgere"
+      ],
+      "family": [
+        "svolgimento",
+        "svolta"
+      ],
+      "meaningDistractors": [
+        "转向或向某人提出",
+        "解开、融化",
+        "包裹"
+      ],
+      "examples": [
+        {
+          "form": "svolgere un'attività",
+          "text": "Ho svolto dodici interviste con utenti e stakeholder.",
+          "translation": "我开展了十二次用户及利益相关者访谈。",
+          "note": "及物：执行、开展。"
+        },
+        {
+          "form": "svolgere un ruolo",
+          "text": "Il facilitatore svolge un ruolo decisivo nelle riunioni complesse.",
+          "translation": "引导师在复杂会议中发挥决定性作用。",
+          "note": "固定搭配：发挥作用。"
+        },
+        {
+          "form": "svolgersi",
+          "text": "La presentazione si è svolta in modalità ibrida.",
+          "translation": "演示以混合形式举行。",
+          "note": "代词式：活动举行。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "La riunione si è ___ senza problemi tecnici.",
+        "options": [
+          "svolta",
+          "rivolta",
+          "sciolta",
+          "avvolta"
+        ],
+        "answer": "svolta",
+        "explanation": "svolgersi 的过去分词是 svolto；主语 la riunione 为阴性单数，所以是 si è svolta。"
+      }
+    },
+    {
+      "id": "VF-008",
+      "lemma": "gestire",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "organizzare, controllare e affrontare responsabilmente un'attività o una situazione",
+      "definitionZh": "管理、组织并妥善处理",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "digerire",
+        "suggerire",
+        "reagire"
+      ],
+      "family": [
+        "gestione",
+        "gestore"
+      ],
+      "meaningDistractors": [
+        "消化或接受坏消息",
+        "建议",
+        "作出反应"
+      ],
+      "examples": [
+        {
+          "form": "gestire un progetto",
+          "text": "Ho gestito il progetto dalla ricerca iniziale al lancio.",
+          "translation": "我从初期研究一直管理项目到上线。",
+          "note": "项目管理的核心动词。"
+        },
+        {
+          "form": "gestire un conflitto",
+          "text": "La responsabile ha gestito il conflitto con grande calma.",
+          "translation": "负责人非常冷静地处理了冲突。",
+          "note": "处理复杂情境。"
+        },
+        {
+          "form": "gestire dati",
+          "text": "Il sistema gestisce i dati localmente e non li invia a terzi.",
+          "translation": "系统在本地处理数据，不发送给第三方。",
+          "note": "技术语境：处理、管理。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Chi sarà responsabile di ___ i rapporti con i fornitori?",
+        "options": [
+          "gestire",
+          "digerire",
+          "suggerire",
+          "reagire"
+        ],
+        "answer": "gestire",
+        "explanation": "gestire i rapporti 表示管理关系；suggerire 需要提出建议的内容。"
+      }
+    },
+    {
+      "id": "VF-009",
+      "lemma": "raggiungere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "arrivare a un luogo, un obiettivo, una persona o un accordo",
+      "definitionZh": "到达；达成目标或协议；联系到某人",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "aggiungere",
+        "giungere",
+        "congiungere"
+      ],
+      "family": [
+        "raggiungibile",
+        "raggiungimento"
+      ],
+      "meaningDistractors": [
+        "添加",
+        "到达，较书面",
+        "连接在一起"
+      ],
+      "examples": [
+        {
+          "form": "raggiungere un obiettivo",
+          "text": "Abbiamo raggiunto l'obiettivo con due settimane di anticipo.",
+          "translation": "我们提前两周达成了目标。",
+          "note": "达成可衡量目标。"
+        },
+        {
+          "form": "raggiungere un accordo",
+          "text": "Le parti hanno finalmente raggiunto un accordo sul prezzo.",
+          "translation": "双方终于就价格达成协议。",
+          "note": "谈判高频搭配。"
+        },
+        {
+          "form": "raggiungere una persona",
+          "text": "Non sono riuscito a raggiungere il cliente al telefono.",
+          "translation": "我没能通过电话联系到客户。",
+          "note": "联系到某人，不只是物理到达。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Dopo tre incontri, siamo riusciti a ___ un accordo.",
+        "options": [
+          "raggiungere",
+          "aggiungere",
+          "giungere",
+          "congiungere"
+        ],
+        "answer": "raggiungere",
+        "explanation": "raggiungere un accordo 是固定搭配；giungere 通常与介词 a 连用：giungere a un accordo。"
+      }
+    },
+    {
+      "id": "VF-010",
+      "lemma": "proporre",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "presentare un'idea; con proporsi di, stabilire per sé un obiettivo",
+      "definitionZh": "提出建议；proporsi di 表示打算、给自己设定目标",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "imporre",
+        "predisporre",
+        "esporre"
+      ],
+      "family": [
+        "proposta",
+        "propositivo"
+      ],
+      "meaningDistractors": [
+        "强加",
+        "预先安排",
+        "展示或暴露"
+      ],
+      "examples": [
+        {
+          "form": "proporre qualcosa",
+          "text": "Vorrei proporre una soluzione meno costosa e più facile da testare.",
+          "translation": "我想提出一个成本更低、更容易测试的方案。",
+          "note": "提出具体方案。"
+        },
+        {
+          "form": "proporre qualcosa a qualcuno",
+          "text": "Abbiamo proposto al cliente tre scenari alternativi.",
+          "translation": "我们向客户提出了三个备选方案。",
+          "note": "双宾语结构：向某人提出某事。"
+        },
+        {
+          "form": "proporsi di",
+          "text": "Ci proponiamo di ridurre i tempi di risposta del 20%.",
+          "translation": "我们的目标是把响应时间缩短20%。",
+          "note": "代词式：设定目标、打算。"
+        }
+      ],
+      "challenge": {
+        "type": "lookalike",
+        "prompt": "Per il prossimo trimestre ci siamo ___ di entrare in due nuovi mercati.",
+        "options": [
+          "proposti",
+          "imposti",
+          "predisposti",
+          "esposti"
+        ],
+        "answer": "proposti",
+        "explanation": "proporsi di + infinito 表示给自己设定目标；noi 的过去分词为 proposti/proposte。"
+      }
+    },
+    {
+      "id": "VF-011",
+      "lemma": "valutare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "esaminare dati, opzioni o risultati per formulare un giudizio",
+      "definitionZh": "评估、权衡后作出判断",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "svalutare",
+        "rivalutare",
+        "valicare"
+      ],
+      "family": [
+        "valutazione",
+        "valutatore"
+      ],
+      "meaningDistractors": [
+        "贬值或低估",
+        "重新评估",
+        "越过边界"
+      ],
+      "examples": [
+        {
+          "form": "valutare un'opzione",
+          "text": "Stiamo valutando tre piattaforme per la ricerca remota.",
+          "translation": "我们正在评估三个远程研究平台。",
+          "note": "比较可选方案。"
+        },
+        {
+          "form": "valutare se",
+          "text": "Dobbiamo valutare se il beneficio giustifica il costo.",
+          "translation": "我们必须评估收益是否值得这个成本。",
+          "note": "后接间接疑问句。"
+        },
+        {
+          "form": "essere valutato",
+          "text": "Il prototipo verrà valutato da cinque utenti la prossima settimana.",
+          "translation": "原型下周将由五名用户评估。",
+          "note": "及物动词的将来时被动。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Prima di investire, il consiglio vuole ___ rischi e benefici.",
+        "options": [
+          "valutare",
+          "svalutare",
+          "rivalutare",
+          "valicare"
+        ],
+        "answer": "valutare",
+        "explanation": "首次系统分析风险与收益用 valutare；rivalutare 强调重新评估。"
+      }
+    },
+    {
+      "id": "VF-012",
+      "lemma": "rilevare",
+      "level": "C1",
+      "pos": "verbo",
+      "definitionIt": "individuare o registrare un dato; notare; anche acquisire un'attività commerciale",
+      "definitionZh": "检测、发现、指出；也可指收购企业",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "media",
+      "lookalikes": [
+        "rivelare",
+        "sollevare",
+        "alleviare"
+      ],
+      "family": [
+        "rilevazione",
+        "rilevatore"
+      ],
+      "meaningDistractors": [
+        "揭露秘密",
+        "抬起或提出问题",
+        "缓解痛苦"
+      ],
+      "examples": [
+        {
+          "form": "rilevare un dato",
+          "text": "Il sensore rileva variazioni minime di temperatura.",
+          "translation": "传感器能够检测到极小的温度变化。",
+          "note": "技术语境：探测、记录。"
+        },
+        {
+          "form": "rilevare che",
+          "text": "Dalle interviste abbiamo rilevato che molti utenti evitano il filtro.",
+          "translation": "访谈显示，许多用户会避开过滤器。",
+          "note": "研究语境：观察到。"
+        },
+        {
+          "form": "rilevare un'azienda",
+          "text": "Il gruppo ha rilevato una piccola società di consulenza.",
+          "translation": "该集团收购了一家小型咨询公司。",
+          "note": "商业语境：接手、收购。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "L'analisi ha ___ un calo della soddisfazione dopo l'aggiornamento.",
+        "options": [
+          "rilevato",
+          "rivelato",
+          "sollevato",
+          "alleviato"
+        ],
+        "answer": "rilevato",
+        "explanation": "分析或仪器发现一个可观察结果时用 rilevare；rivelare 更像揭示原本隐藏的信息。"
+      }
+    },
+    {
+      "id": "VF-013",
+      "lemma": "emergere",
+      "level": "B2",
+      "pos": "verbo intransitivo",
+      "definitionIt": "diventare visibile o evidente; risultare da dati e discussioni",
+      "definitionZh": "浮现、显现；从数据或讨论中体现出来",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "immergere",
+        "emarginare",
+        "esigere"
+      ],
+      "family": [
+        "emergente",
+        "emersione"
+      ],
+      "meaningDistractors": [
+        "浸入",
+        "排斥到边缘",
+        "要求、索取"
+      ],
+      "examples": [
+        {
+          "form": "emergere dai dati",
+          "text": "Dai dati emerge una forte differenza tra nuovi e vecchi clienti.",
+          "translation": "数据显示，新老客户之间存在明显差异。",
+          "note": "常用无人称式：dai dati emerge che...。"
+        },
+        {
+          "form": "far emergere",
+          "text": "Il workshop ha fatto emergere bisogni che non avevamo considerato.",
+          "translation": "工作坊让此前未考虑的需求浮现出来。",
+          "note": "使役：让某信息显现。"
+        },
+        {
+          "form": "è emerso che",
+          "text": "Durante la riunione è emerso che mancava un responsabile unico.",
+          "translation": "会议中发现缺少一个统一负责人。",
+          "note": "复合时态使用 essere。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Dalle prove con gli utenti è ___ un problema di comprensione.",
+        "options": [
+          "emerso",
+          "immerso",
+          "emarginato",
+          "esatto"
+        ],
+        "answer": "emerso",
+        "explanation": "emergere 表示问题从测试结果中显现；过去分词与主语 un problema 配合为 emerso。"
+      }
+    },
+    {
+      "id": "VF-014",
+      "lemma": "incidere",
+      "level": "C1",
+      "pos": "verbo",
+      "definitionIt": "influire in modo rilevante; tagliare o registrare su una superficie",
+      "definitionZh": "显著影响；也可表示刻、切或录制",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "media",
+      "lookalikes": [
+        "decidere",
+        "indicare",
+        "coincidere"
+      ],
+      "family": [
+        "incidenza",
+        "incisivo"
+      ],
+      "meaningDistractors": [
+        "决定",
+        "指出",
+        "重合、一致"
+      ],
+      "examples": [
+        {
+          "form": "incidere su",
+          "text": "I tempi di approvazione incidono molto sul costo finale.",
+          "translation": "审批时间对最终成本影响很大。",
+          "note": "职场高频结构：incidere su。"
+        },
+        {
+          "form": "incidere un materiale",
+          "text": "Il laser incide il numero di serie sul componente.",
+          "translation": "激光把序列号刻在部件上。",
+          "note": "具体义：雕刻、切入。"
+        },
+        {
+          "form": "incidere un disco",
+          "text": "Prima di lavorare nel design, aveva inciso due dischi.",
+          "translation": "从事设计之前，他录制过两张唱片。",
+          "note": "文化语境：录制唱片。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "La qualità dei dati può ___ direttamente sull'affidabilità del modello.",
+        "options": [
+          "incidere",
+          "decidere",
+          "indicare",
+          "coincidere"
+        ],
+        "answer": "incidere",
+        "explanation": "incidere su qualcosa 表示对其产生重要影响；decidere 不能这样搭配。"
+      }
+    },
+    {
+      "id": "VF-015",
+      "lemma": "mirare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "puntare verso un bersaglio; con mirare a, avere come obiettivo",
+      "definitionZh": "瞄准；mirare a 表示旨在、目标是",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "ammirare",
+        "misurare",
+        "minare"
+      ],
+      "family": [
+        "mira",
+        "mirato"
+      ],
+      "meaningDistractors": [
+        "欣赏、钦佩",
+        "测量",
+        "削弱或埋雷"
+      ],
+      "examples": [
+        {
+          "form": "mirare a",
+          "text": "Il progetto mira a ridurre gli errori nelle richieste di rimborso.",
+          "translation": "该项目旨在减少报销申请中的错误。",
+          "note": "正式表达目标，后接名词或不定式。"
+        },
+        {
+          "form": "intervento mirato",
+          "text": "Serve un intervento mirato, non una riprogettazione completa.",
+          "translation": "需要有针对性的干预，而不是完全重新设计。",
+          "note": "过去分词形容词：有针对性的。"
+        },
+        {
+          "form": "mirare un bersaglio",
+          "text": "La telecamera deve mirare il codice senza riflessi.",
+          "translation": "摄像头必须对准二维码且不能有反光。",
+          "note": "具体义：瞄准目标。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "La nuova funzione ___ a semplificare l'onboarding dei clienti.",
+        "options": [
+          "mira",
+          "ammira",
+          "misura",
+          "mina"
+        ],
+        "answer": "mira",
+        "explanation": "mirare a + infinito 表示旨在做某事；ammirare 是欣赏。"
+      }
+    },
+    {
+      "id": "VF-016",
+      "lemma": "comportare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "avere come conseguenza necessaria; comportarsi significa agire in un certo modo",
+      "definitionZh": "导致、意味着；comportarsi 表示举止、表现",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "comportarsi",
+        "completare",
+        "confrontare"
+      ],
+      "family": [
+        "comportamento",
+        "comporto"
+      ],
+      "meaningDistractors": [
+        "表现、举止",
+        "完成",
+        "比较或对质"
+      ],
+      "examples": [
+        {
+          "form": "comportare un rischio",
+          "text": "La migrazione comporta un rischio temporaneo di interruzione.",
+          "translation": "迁移会带来暂时中断的风险。",
+          "note": "及物：带来某种后果。"
+        },
+        {
+          "form": "comportare la necessità di",
+          "text": "La modifica comporterà la necessità di autenticarsi di nuovo.",
+          "translation": "这一修改将意味着必须重新登录。",
+          "note": "正式结构：意味着需要做某事。"
+        },
+        {
+          "form": "comportarsi",
+          "text": "Il prototipo si comporta diversamente su schermi piccoli.",
+          "translation": "原型在小屏幕上的表现不同。",
+          "note": "代词式不仅用于人的举止，也用于系统表现。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "L'espansione internazionale può ___ costi legali aggiuntivi.",
+        "options": [
+          "comportare",
+          "comportarsi",
+          "completare",
+          "confrontare"
+        ],
+        "answer": "comportare",
+        "explanation": "comportare + 名词表示带来某后果；comportarsi 是不及物代词式。"
+      }
+    },
+    {
+      "id": "VF-017",
+      "lemma": "ricavare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "ottenere un'informazione, un vantaggio, uno spazio o un prodotto da qualcos'altro",
+      "definitionZh": "从某物中获得信息、收益、空间或产物",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "recuperare",
+        "riservare",
+        "rilevare"
+      ],
+      "family": [
+        "ricavo",
+        "ricavato"
+      ],
+      "meaningDistractors": [
+        "找回、恢复",
+        "预留、预订",
+        "检测或收购"
+      ],
+      "examples": [
+        {
+          "form": "ricavare informazioni",
+          "text": "Dai commenti abbiamo ricavato indicazioni utili per il redesign.",
+          "translation": "我们从评论中提取了对重新设计有用的信息。",
+          "note": "从材料中提炼信息。"
+        },
+        {
+          "form": "ricavare un profitto",
+          "text": "L'impresa ricava gran parte dei profitti dai servizi post-vendita.",
+          "translation": "企业大部分利润来自售后服务。",
+          "note": "经济语境：获取收益。"
+        },
+        {
+          "form": "ricavare uno spazio",
+          "text": "Dal corridoio è stata ricavata una piccola area riunioni.",
+          "translation": "走廊被改造成了一个小会议区。",
+          "note": "从现有空间中辟出新空间。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Quali informazioni possiamo ___ dai dati raccolti?",
+        "options": [
+          "ricavare",
+          "recuperare",
+          "riservare",
+          "rilevare"
+        ],
+        "answer": "ricavare",
+        "explanation": "ricavare informazioni da una fonte 强调从已有材料中提取；rilevare 强调检测或观察到。"
+      }
+    },
+    {
+      "id": "VF-018",
+      "lemma": "mettere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "collocare; in numerose locuzioni significa avviare, evidenziare, applicare o mettere qualcuno in condizione",
+      "definitionZh": "放置；在大量固定搭配中表示启动、强调或付诸实施",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "ammettere",
+        "omettere",
+        "promettere"
+      ],
+      "family": [
+        "messa",
+        "immettere"
+      ],
+      "meaningDistractors": [
+        "承认或允许进入",
+        "省略",
+        "承诺"
+      ],
+      "examples": [
+        {
+          "form": "mettere in pratica",
+          "text": "Ora dobbiamo mettere in pratica le raccomandazioni della ricerca.",
+          "translation": "现在我们必须把研究建议付诸实践。",
+          "note": "固定搭配：实施。"
+        },
+        {
+          "form": "mettere in evidenza",
+          "text": "Il grafico mette in evidenza un calo improvviso delle vendite.",
+          "translation": "图表突出显示了销售额的突然下降。",
+          "note": "强调、凸显。"
+        },
+        {
+          "form": "mettere qualcuno in condizione di",
+          "text": "Il tutorial mette l'utente in condizione di iniziare senza assistenza.",
+          "translation": "教程让用户能够在无人协助时开始使用。",
+          "note": "使某人具备做某事的条件。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Il report deve ___ in evidenza le differenze tra i due mercati.",
+        "options": [
+          "mettere",
+          "ammettere",
+          "omettere",
+          "promettere"
+        ],
+        "answer": "mettere",
+        "explanation": "mettere in evidenza 表示突出；omettere 恰恰是省略。"
+      }
+    },
+    {
+      "id": "VF-019",
+      "lemma": "prendere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "afferrare o ricevere; in locuzioni indica decidere, considerare, assumere o avviare",
+      "definitionZh": "拿、接受；固定搭配中可表示作决定、考虑或采取措施",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "apprendere",
+        "comprendere",
+        "riprendere"
+      ],
+      "family": [
+        "presa",
+        "intraprendere"
+      ],
+      "meaningDistractors": [
+        "学习得知",
+        "理解、包含",
+        "重新开始或拍摄"
+      ],
+      "examples": [
+        {
+          "form": "prendere una decisione",
+          "text": "Non possiamo prendere una decisione senza dati affidabili.",
+          "translation": "没有可靠数据，我们不能作决定。",
+          "note": "作出决定。"
+        },
+        {
+          "form": "prendere in considerazione",
+          "text": "Prenderei in considerazione anche una soluzione temporanea.",
+          "translation": "我也会考虑一个临时方案。",
+          "note": "条件式让建议更委婉。"
+        },
+        {
+          "form": "prendere parte a",
+          "text": "Alla sessione hanno preso parte otto responsabili di funzione.",
+          "translation": "八名职能负责人参加了会议。",
+          "note": "正式表达：参加。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Prima di scartarla, dovremmo ___ in considerazione questa alternativa.",
+        "options": [
+          "prendere",
+          "apprendere",
+          "comprendere",
+          "riprendere"
+        ],
+        "answer": "prendere",
+        "explanation": "prendere in considerazione 是固定搭配，表示考虑。"
+      }
+    },
+    {
+      "id": "VF-020",
+      "lemma": "portare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "trasportare; condurre a un risultato; con portare avanti, continuare un'attività",
+      "definitionZh": "携带；导致；portare avanti 表示推进、继续",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "importare",
+        "esportare",
+        "sopportare"
+      ],
+      "family": [
+        "portata",
+        "apportare"
+      ],
+      "meaningDistractors": [
+        "进口或重要",
+        "出口",
+        "忍受"
+      ],
+      "examples": [
+        {
+          "form": "portare a",
+          "text": "Una comunicazione ambigua può portare a decisioni sbagliate.",
+          "translation": "含糊的沟通可能导致错误决定。",
+          "note": "因果结构：导致。"
+        },
+        {
+          "form": "portare avanti",
+          "text": "Abbiamo portato avanti due esperimenti in parallelo.",
+          "translation": "我们并行推进了两个实验。",
+          "note": "推进项目或工作。"
+        },
+        {
+          "form": "portare un esempio",
+          "text": "Durante il colloquio, porta un esempio concreto di negoziazione.",
+          "translation": "面试时，请举一个具体的谈判例子。",
+          "note": "举例，也常说 fare un esempio。"
+        }
+      ],
+      "challenge": {
+        "type": "context",
+        "prompt": "Il team continuerà a ___ avanti la sperimentazione fino a dicembre.",
+        "options": [
+          "portare",
+          "importare",
+          "esportare",
+          "sopportare"
+        ],
+        "answer": "portare",
+        "explanation": "portare avanti un progetto 表示持续推进；importare 在此不成立。"
+      }
+    },
+    {
+      "id": "VF-021",
+      "lemma": "trattare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "discutere un tema; negoziare; avere un certo comportamento verso qualcuno; curare una materia",
+      "definitionZh": "讨论、涉及；谈判；对待；处理材料",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "trattenere",
+        "ritrarre",
+        "tracciare"
+      ],
+      "family": [
+        "trattativa",
+        "trattamento"
+      ],
+      "meaningDistractors": [
+        "留住、扣留",
+        "撤回或描绘",
+        "描线、追踪"
+      ],
+      "examples": [
+        {
+          "form": "trattare un tema",
+          "text": "Il rapporto tratta il tema della fiducia nei servizi digitali.",
+          "translation": "报告讨论数字服务中的信任问题。",
+          "note": "内容涉及某主题。"
+        },
+        {
+          "form": "trattare con",
+          "text": "Stiamo trattando con il fornitore per ottenere condizioni migliori.",
+          "translation": "我们正在与供应商谈判以争取更好的条件。",
+          "note": "trattare con：与……谈判。"
+        },
+        {
+          "form": "essere trattato",
+          "text": "I dati sensibili devono essere trattati con particolare cautela.",
+          "translation": "敏感数据必须被格外谨慎地处理。",
+          "note": "被动结构，过去分词与 dati 配合。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Se i dati ___ con più attenzione, avremmo evitato l'errore.",
+        "options": [
+          "fossero stati trattati",
+          "sarebbero trattati",
+          "erano trattando",
+          "avessero trattato"
+        ],
+        "answer": "fossero stati trattati",
+        "explanation": "过去非现实条件句：se + congiuntivo trapassato；dati 是被处理对象，所以用被动 fossero stati trattati。"
+      }
+    },
+    {
+      "id": "VF-022",
+      "lemma": "riguardare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "avere come oggetto o interessare; anche guardare di nuovo",
+      "definitionZh": "涉及、与……有关；也可表示重新观看",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "guardare",
+        "guadagnare",
+        "riguadagnare"
+      ],
+      "family": [
+        "riguardo",
+        "riguardante"
+      ],
+      "meaningDistractors": [
+        "观看",
+        "赚取",
+        "重新获得"
+      ],
+      "examples": [
+        {
+          "form": "riguardare qualcosa",
+          "text": "La seconda domanda riguarda le aspettative dei clienti.",
+          "translation": "第二个问题涉及客户预期。",
+          "note": "及物，不需要介词。"
+        },
+        {
+          "form": "per quanto riguarda",
+          "text": "Per quanto riguarda i costi, avremo una stima venerdì.",
+          "translation": "关于成本，我们周五会有估算。",
+          "note": "正式连接语：至于、关于。"
+        },
+        {
+          "form": "riguardare un video",
+          "text": "Ho riguardato la registrazione per controllare la risposta.",
+          "translation": "我重新看了录像以核对回答。",
+          "note": "ri- 表示再次观看。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Le modifiche ___ soprattutto gli utenti che lavorano da mobile.",
+        "options": [
+          "riguardano",
+          "riguardino",
+          "sono riguardate",
+          "riguarda"
+        ],
+        "answer": "riguardano",
+        "explanation": "这是陈述事实，用直陈式现在时；主语 le modifiche 为复数，因此 riguardano。"
+      }
+    },
+    {
+      "id": "VF-023",
+      "lemma": "occuparsi",
+      "level": "B1",
+      "pos": "verbo pronominale",
+      "definitionIt": "prendere in carico un'attività o interessarsi di un tema",
+      "definitionZh": "负责、处理；关注某个主题",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "preoccuparsi",
+        "occupare",
+        "occorrere"
+      ],
+      "family": [
+        "occupazione",
+        "incarico"
+      ],
+      "meaningDistractors": [
+        "担心",
+        "占据",
+        "需要、发生"
+      ],
+      "examples": [
+        {
+          "form": "occuparsi di",
+          "text": "Mi occupo della ricerca utenti e della sintesi dei risultati.",
+          "translation": "我负责用户研究和结果总结。",
+          "note": "自我介绍高频结构。"
+        },
+        {
+          "form": "fare sì che si occupi",
+          "text": "Faremo sì che il team legale si occupi della revisione del contratto.",
+          "translation": "我们会确保由法务团队负责审核合同。",
+          "note": "fare sì che + congiuntivo：确保某事发生。"
+        },
+        {
+          "form": "essersi occupato di",
+          "text": "Dopo essermi occupato del prototipo, ho seguito anche il lancio.",
+          "translation": "负责原型之后，我也跟进了上线。",
+          "note": "过去不定式，代词与助动词结合。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Nel mio ultimo ruolo, mi ___ principalmente di partnership strategiche.",
+        "options": [
+          "occupavo",
+          "sono occupato",
+          "occuperei",
+          "preoccupavo"
+        ],
+        "answer": "occupavo",
+        "explanation": "描述过去持续职责用 imperfetto：mi occupavo di；sono occupato 表示我很忙。"
+      }
+    },
+    {
+      "id": "VF-024",
+      "lemma": "risultare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "apparire o emergere come risultato; essere registrato; risultare difficile significa rivelarsi tale",
+      "definitionZh": "结果显示、显得；被登记为；最终证明是",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "risaltare",
+        "consultare",
+        "resistere"
+      ],
+      "family": [
+        "risultato",
+        "risultante"
+      ],
+      "meaningDistractors": [
+        "突出显眼",
+        "查阅或咨询",
+        "抵抗"
+      ],
+      "examples": [
+        {
+          "form": "risultare dai dati",
+          "text": "Dai dati risulta che il nuovo flusso riduce gli errori.",
+          "translation": "数据显示，新流程减少了错误。",
+          "note": "较客观地引出结果。"
+        },
+        {
+          "form": "risultare difficile",
+          "text": "La procedura è risultata difficile per gli utenti meno esperti.",
+          "translation": "该流程最终被证明对经验较少的用户很难。",
+          "note": "事后显示、证明为。"
+        },
+        {
+          "form": "risultare iscritto",
+          "text": "Il candidato non risultava iscritto nel sistema.",
+          "translation": "系统中没有显示该候选人已登记。",
+          "note": "行政语境：登记记录显示。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Dai test ___ che la seconda versione è più chiara.",
+        "options": [
+          "risulta",
+          "risultano",
+          "risulti",
+          "è risultando"
+        ],
+        "answer": "risulta",
+        "explanation": "在 dai test risulta che... 中，形式主语是后面的从句，通常用第三人称单数 risulta。"
+      }
+    },
+    {
+      "id": "VF-025",
+      "lemma": "sostenere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "supportare; mantenere un'opinione; affrontare un esame o un costo",
+      "definitionZh": "支持；主张；参加考试或承担成本",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "trattenere",
+        "sostituire",
+        "sottostare"
+      ],
+      "family": [
+        "sostegno",
+        "sostenibile"
+      ],
+      "meaningDistractors": [
+        "留住、扣留",
+        "替代",
+        "服从、受制于"
+      ],
+      "examples": [
+        {
+          "form": "sostenere un'idea",
+          "text": "Il direttore sostiene che il servizio debba restare gratuito.",
+          "translation": "主管主张该服务应保持免费。",
+          "note": "正式表达观点，后面常见虚拟式。"
+        },
+        {
+          "form": "sostenere un costo",
+          "text": "L'azienda non può sostenere questi costi nel lungo periodo.",
+          "translation": "公司长期无法承担这些成本。",
+          "note": "经济语境：承担。"
+        },
+        {
+          "form": "sostenere un colloquio",
+          "text": "Ho sostenuto il primo colloquio in italiano.",
+          "translation": "我参加了第一轮意大利语面试。",
+          "note": "意大利常用：参加考试或面试。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Il responsabile sostiene che questa soluzione ___ più sostenibile.",
+        "options": [
+          "sia",
+          "è",
+          "fosse stata",
+          "sarà stata"
+        ],
+        "answer": "sia",
+        "explanation": "sostenere che 表达主张或观点时，正式意大利语通常使用 congiuntivo presente：sia。"
+      }
+    },
+    {
+      "id": "VF-026",
+      "lemma": "adottare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "scegliere e iniziare a usare un metodo, una misura o una tecnologia; prendere legalmente come figlio",
+      "definitionZh": "采用方法、措施或技术；收养",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "adattare",
+        "dotare",
+        "annotare"
+      ],
+      "family": [
+        "adozione",
+        "adottivo"
+      ],
+      "meaningDistractors": [
+        "调整以适应",
+        "为……配备",
+        "做笔记"
+      ],
+      "examples": [
+        {
+          "form": "adottare una soluzione",
+          "text": "L'impresa ha adottato una soluzione cloud più flessibile.",
+          "translation": "公司采用了更灵活的云解决方案。",
+          "note": "正式：选择并开始使用。"
+        },
+        {
+          "form": "adottare una misura",
+          "text": "Sono state adottate misure temporanee per ridurre il rischio.",
+          "translation": "已经采取临时措施降低风险。",
+          "note": "被动式常见于正式文本。"
+        },
+        {
+          "form": "adottare un bambino",
+          "text": "La legge disciplina anche le procedure per adottare un minore.",
+          "translation": "法律也规范收养未成年人的程序。",
+          "note": "另一核心义：收养。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Se la soluzione ___ prima, avremmo raccolto più dati.",
+        "options": [
+          "fosse stata adottata",
+          "sarebbe adottata",
+          "aveva adottato",
+          "sia adottata"
+        ],
+        "answer": "fosse stata adottata",
+        "explanation": "过去非现实条件句需要 congiuntivo trapassato；soluzione 为被采用，所以是 fosse stata adottata。"
+      }
+    },
+    {
+      "id": "VF-027",
+      "lemma": "coinvolgere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "far partecipare; interessare o avere conseguenze per qualcuno",
+      "definitionZh": "让……参与；涉及、影响到某人",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "convergere",
+        "convincere",
+        "rivolgere"
+      ],
+      "family": [
+        "coinvolgimento",
+        "coinvolto"
+      ],
+      "meaningDistractors": [
+        "汇聚、趋同",
+        "说服",
+        "转向或向某人提出"
+      ],
+      "examples": [
+        {
+          "form": "coinvolgere qualcuno",
+          "text": "Abbiamo coinvolto gli operatori fin dalle prime fasi.",
+          "translation": "我们从最初阶段就让一线人员参与进来。",
+          "note": "参与式设计高频动词。"
+        },
+        {
+          "form": "essere coinvolto in",
+          "text": "Sono stato coinvolto in tre progetti internazionali.",
+          "translation": "我参与了三个国际项目。",
+          "note": "面试常用被动结构。"
+        },
+        {
+          "form": "coinvolgere un reparto",
+          "text": "La riorganizzazione coinvolgerà anche il reparto vendite.",
+          "translation": "重组也将影响销售部门。",
+          "note": "不仅是参与，也可表示影响范围。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Vorrei che tutti i reparti ___ nella fase di ricerca.",
+        "options": [
+          "fossero coinvolti",
+          "sono coinvolti",
+          "saranno coinvolgere",
+          "avrebbero coinvolto"
+        ],
+        "answer": "fossero coinvolti",
+        "explanation": "vorrei che 要求 congiuntivo imperfetto；reparti 是被邀请参与，所以用被动 fossero coinvolti。"
+      }
+    },
+    {
+      "id": "VF-028",
+      "lemma": "definire",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "stabilire con precisione; spiegare il significato; descrivere con una qualifica",
+      "definitionZh": "明确界定、定义；把……描述为",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "rifinire",
+        "differire",
+        "diffondere"
+      ],
+      "family": [
+        "definizione",
+        "definito"
+      ],
+      "meaningDistractors": [
+        "精加工、润色",
+        "推迟或不同",
+        "传播"
+      ],
+      "examples": [
+        {
+          "form": "definire un obiettivo",
+          "text": "Prima di iniziare, definiamo un obiettivo misurabile.",
+          "translation": "开始之前，我们先明确一个可衡量的目标。",
+          "note": "明确边界和标准。"
+        },
+        {
+          "form": "definire come",
+          "text": "Il cliente ha definito il prototipo come troppo complesso.",
+          "translation": "客户把原型形容为过于复杂。",
+          "note": "把某物描述、评定为。"
+        },
+        {
+          "form": "essere ben definito",
+          "text": "Le responsabilità non erano state ben definite.",
+          "translation": "职责此前没有被清楚界定。",
+          "note": "过去完成被动，强调更早阶段。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Prima del lancio, i criteri di successo dovranno essere ___ chiaramente.",
+        "options": [
+          "definiti",
+          "definite",
+          "definendo",
+          "definiranno"
+        ],
+        "answer": "definiti",
+        "explanation": "essere + 过去分词构成被动；criteri 为阳性复数，所以 definiti。"
+      }
+    },
+    {
+      "id": "VF-029",
+      "lemma": "prevedere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "anticipare un evento; includere o stabilire in un piano, una norma o un contratto",
+      "definitionZh": "预测；计划、规定或包含某项内容",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "provvedere",
+        "provenire",
+        "predire"
+      ],
+      "family": [
+        "previsione",
+        "prevedibile"
+      ],
+      "meaningDistractors": [
+        "负责处理或提供",
+        "来自",
+        "预言"
+      ],
+      "examples": [
+        {
+          "form": "prevedere un aumento",
+          "text": "Gli analisti prevedono un aumento della domanda nel secondo semestre.",
+          "translation": "分析师预计下半年需求会上升。",
+          "note": "预测未来。"
+        },
+        {
+          "form": "il contratto prevede",
+          "text": "Il contratto prevede un periodo di prova di sei mesi.",
+          "translation": "合同规定试用期为六个月。",
+          "note": "文件规定、包含。"
+        },
+        {
+          "form": "era previsto che",
+          "text": "Era previsto che il test iniziasse lunedì.",
+          "translation": "原计划测试周一开始。",
+          "note": "非人称被动后常接虚拟式。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "Il piano prevede che la prima fase ___ entro maggio.",
+        "options": [
+          "si concluda",
+          "si conclude",
+          "concluderà",
+          "è conclusa"
+        ],
+        "answer": "si concluda",
+        "explanation": "prevedere che 表示计划或规定时，规范书面语通常使用 congiuntivo presente。"
+      }
+    },
+    {
+      "id": "VF-030",
+      "lemma": "garantire",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "assicurare un risultato, un diritto o una condizione; fare da garante",
+      "definitionZh": "保证结果、权利或条件；担保",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "gradire",
+        "guarire",
+        "gestire"
+      ],
+      "family": [
+        "garanzia",
+        "garante"
+      ],
+      "meaningDistractors": [
+        "喜欢、接受",
+        "痊愈",
+        "管理"
+      ],
+      "examples": [
+        {
+          "form": "garantire l'accesso",
+          "text": "Il servizio deve garantire l'accesso anche agli utenti con disabilità.",
+          "translation": "服务必须保证残障用户也能访问。",
+          "note": "保障权利或条件。"
+        },
+        {
+          "form": "garantire che",
+          "text": "Dobbiamo garantire che i dati siano aggiornati.",
+          "translation": "我们必须确保数据是最新的。",
+          "note": "从句表达需确保的结果，常用虚拟式。"
+        },
+        {
+          "form": "non garantire",
+          "text": "Più funzioni non garantiscono necessariamente un prodotto migliore.",
+          "translation": "更多功能并不一定保证产品更好。",
+          "note": "用于打破错误因果。"
+        }
+      ],
+      "challenge": {
+        "type": "grammar",
+        "prompt": "È essenziale garantire che ogni partecipante ___ il consenso.",
+        "options": [
+          "abbia dato",
+          "ha dato",
+          "dava",
+          "darebbe"
+        ],
+        "answer": "abbia dato",
+        "explanation": "garantire che 在要求结果得到确保时用 congiuntivo；动作已完成，用 congiuntivo passato abbia dato。"
+      }
+    },
+    {
+      "id": "VF-031",
+      "lemma": "migliorare",
+      "level": "B1",
+      "pos": "verbo transitivo e intransitivo",
+      "definitionIt": "rendere migliore oppure diventare migliore",
+      "definitionZh": "改善某物；也可表示情况自行好转",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "peggiorare",
+        "mitigare",
+        "misurare"
+      ],
+      "family": [
+        "miglioramento",
+        "migliore"
+      ],
+      "meaningDistractors": [
+        "恶化",
+        "缓和影响",
+        "测量"
+      ],
+      "examples": [
+        {
+          "form": "migliorare qualcosa",
+          "text": "La nuova navigazione ha migliorato il tasso di completamento.",
+          "translation": "新导航提高了完成率。",
+          "note": "及物：主动改善某指标。"
+        },
+        {
+          "form": "qualcosa migliora",
+          "text": "Dopo la correzione, il tempo di caricamento è migliorato.",
+          "translation": "修正后，加载时间改善了。",
+          "note": "不及物：情况变好，复合时态用 essere。"
+        },
+        {
+          "form": "migliorare del 15%",
+          "text": "La precisione è migliorata del 15% rispetto alla prima versione.",
+          "translation": "准确率比第一版提高了15%。",
+          "note": "del 引出变化幅度。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Il processo è migliorato», migliorare è usato come…",
+        "options": [
+          "verbo intransitivo: il processo è diventato migliore",
+          "verbo transitivo: qualcuno ha migliorato il processo",
+          "verbo passivo: il processo è stato migliorato",
+          "nome: un miglioramento"
+        ],
+        "answer": "verbo intransitivo: il processo è diventato migliore",
+        "explanation": "没有施事者且使用 essere：il processo è migliorato 表示流程本身变好了；被动应是 è stato migliorato。"
+      }
+    },
+    {
+      "id": "VF-032",
+      "lemma": "ridurre",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "diminuire quantità, intensità o dimensioni; trasformare in uno stato",
+      "definitionZh": "减少数量、强度或尺寸；使陷入某种状态",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "tradurre",
+        "dedurre",
+        "indurre"
+      ],
+      "family": [
+        "riduzione",
+        "ridotto"
+      ],
+      "meaningDistractors": [
+        "翻译",
+        "推导、扣除",
+        "诱导、导致"
+      ],
+      "examples": [
+        {
+          "form": "ridurre i costi",
+          "text": "L'automazione ha ridotto i costi operativi senza tagliare il personale.",
+          "translation": "自动化降低了运营成本，但没有裁员。",
+          "note": "主动减少。"
+        },
+        {
+          "form": "ridursi",
+          "text": "Con il nuovo processo, i tempi si sono ridotti di tre giorni.",
+          "translation": "采用新流程后，周期缩短了三天。",
+          "note": "代词式：数值自身减少。"
+        },
+        {
+          "form": "ridurre a",
+          "text": "Non possiamo ridurre il problema a una semplice questione di prezzo.",
+          "translation": "我们不能把问题简化成单纯的价格问题。",
+          "note": "ridurre a：归结、简化为。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Non riduciamo il problema a una questione tecnica», ridurre a significa…",
+        "options": [
+          "把复杂问题简化或归结为",
+          "把技术内容翻译出来",
+          "从数据中推导结论",
+          "诱导某人采取行动"
+        ],
+        "answer": "把复杂问题简化或归结为",
+        "explanation": "ridurre qualcosa a qualcosa 表示把它压缩、简化或归结为某一层面。"
+      }
+    },
+    {
+      "id": "VF-033",
+      "lemma": "aumentare",
+      "level": "B1",
+      "pos": "verbo transitivo e intransitivo",
+      "definitionIt": "rendere maggiore oppure diventare maggiore",
+      "definitionZh": "增加某物；也可表示数值自身上升",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "alimentare",
+        "argomentare",
+        "attentare"
+      ],
+      "family": [
+        "aumento",
+        "incremento"
+      ],
+      "meaningDistractors": [
+        "供给、助长",
+        "论证",
+        "企图伤害"
+      ],
+      "examples": [
+        {
+          "form": "aumentare qualcosa",
+          "text": "La campagna ha aumentato la notorietà del marchio.",
+          "translation": "活动提高了品牌知名度。",
+          "note": "及物：使某指标上升。"
+        },
+        {
+          "form": "qualcosa aumenta",
+          "text": "La domanda è aumentata rapidamente dopo il lancio.",
+          "translation": "上线后需求迅速增加。",
+          "note": "不及物：使用 essere。"
+        },
+        {
+          "form": "aumentare del / a",
+          "text": "Le conversioni sono aumentate del 12%, arrivando al 38%.",
+          "translation": "转化率提高了12%，达到38%。",
+          "note": "del 是增加幅度，a 是最终值。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Abbiamo aumentato il budget», aumentare è…",
+        "options": [
+          "及物：我们主动增加了预算",
+          "不及物：预算自行增加",
+          "被动：预算被增加",
+          "名词：一次增长"
+        ],
+        "answer": "及物：我们主动增加了预算",
+        "explanation": "主语 noi 直接作用于宾语 il budget；如果预算自行上升，应说 il budget è aumentato。"
+      }
+    },
+    {
+      "id": "VF-034",
+      "lemma": "richiedere",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "domandare formalmente; rendere necessario; esigere tempo o risorse",
+      "definitionZh": "正式请求；需要、要求投入时间或资源",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "ricadere",
+        "risiedere",
+        "rivedere"
+      ],
+      "family": [
+        "richiesta",
+        "requisito"
+      ],
+      "meaningDistractors": [
+        "重新落在、归属于",
+        "居住或在于",
+        "重新查看、修改"
+      ],
+      "examples": [
+        {
+          "form": "richiedere qualcosa",
+          "text": "Il cliente ha richiesto una stima più dettagliata.",
+          "translation": "客户要求提供更详细的估算。",
+          "note": "正式请求。"
+        },
+        {
+          "form": "richiedere tempo",
+          "text": "La migrazione richiederà almeno tre settimane.",
+          "translation": "迁移至少需要三周。",
+          "note": "事情本身要求资源。"
+        },
+        {
+          "form": "richiedere che",
+          "text": "La procedura richiede che ogni modifica sia documentata.",
+          "translation": "流程要求每次修改都有记录。",
+          "note": "表示规范要求时从句用虚拟式。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «La verifica richiede due giorni», richiedere significa…",
+        "options": [
+          "需要一定时间才能完成",
+          "正式向某人索要两天",
+          "重新检查两天",
+          "在某地居住两天"
+        ],
+        "answer": "需要一定时间才能完成",
+        "explanation": "主语是 attività 时，richiedere 表示需要、耗费时间或资源。"
+      }
+    },
+    {
+      "id": "VF-035",
+      "lemma": "fornire",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "dare, mettere a disposizione informazioni, servizi, materiali o prove",
+      "definitionZh": "提供信息、服务、材料或证据",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "finire",
+        "formare",
+        "ferire"
+      ],
+      "family": [
+        "fornitura",
+        "fornitore"
+      ],
+      "meaningDistractors": [
+        "结束",
+        "培训或形成",
+        "伤害"
+      ],
+      "examples": [
+        {
+          "form": "fornire informazioni",
+          "text": "Il report fornisce informazioni utili per la decisione.",
+          "translation": "报告为决策提供有用信息。",
+          "note": "比 dare 更正式。"
+        },
+        {
+          "form": "fornire qualcosa a qualcuno",
+          "text": "Abbiamo fornito al cliente una demo interattiva.",
+          "translation": "我们向客户提供了一个交互演示。",
+          "note": "a 引出接收者。"
+        },
+        {
+          "form": "essere fornito di",
+          "text": "Ogni dispositivo è fornito di un manuale multilingue.",
+          "translation": "每台设备都配有多语言手册。",
+          "note": "essere fornito di：配备有。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Il dispositivo è fornito di sensori», fornito di significa…",
+        "options": [
+          "配备有",
+          "由某人提供",
+          "已经结束",
+          "接受了培训"
+        ],
+        "answer": "配备有",
+        "explanation": "essere fornito di 描述具有某种装备；essere fornito da 才会引出供应者。"
+      }
+    },
+    {
+      "id": "VF-036",
+      "lemma": "sviluppare",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "creare e far crescere un progetto, un prodotto, una capacità o un ragionamento",
+      "definitionZh": "开发并推进项目、产品；培养能力；展开论述",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "svalutare",
+        "svelare",
+        "svolgere"
+      ],
+      "family": [
+        "sviluppo",
+        "sviluppatore"
+      ],
+      "meaningDistractors": [
+        "贬低价值",
+        "揭开、透露",
+        "开展、执行"
+      ],
+      "examples": [
+        {
+          "form": "sviluppare un prodotto",
+          "text": "Il team ha sviluppato il servizio insieme agli operatori.",
+          "translation": "团队与一线人员共同开发了服务。",
+          "note": "创造并逐步完善。"
+        },
+        {
+          "form": "sviluppare competenze",
+          "text": "Vorrei sviluppare competenze più solide nella negoziazione.",
+          "translation": "我想培养更扎实的谈判能力。",
+          "note": "培养能力。"
+        },
+        {
+          "form": "sviluppare un argomento",
+          "text": "Nel colloquio, sviluppa la risposta con un esempio concreto.",
+          "translation": "面试时，用具体例子展开回答。",
+          "note": "展开论点，不只是软件开发。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Sviluppa meglio questo punto», sviluppare significa…",
+        "options": [
+          "进一步展开和说明",
+          "开发一个软件产品",
+          "贬低这一点",
+          "执行一次任务"
+        ],
+        "answer": "进一步展开和说明",
+        "explanation": "与 punto/argomento 搭配时，sviluppare 表示把论述展开得更完整。"
+      }
+    },
+    {
+      "id": "VF-037",
+      "lemma": "implementare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "realizzare concretamente una soluzione, una funzione, una politica o un piano",
+      "definitionZh": "实施方案、功能、政策或计划",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "complementare",
+        "impiegare",
+        "alimentare"
+      ],
+      "family": [
+        "implementazione",
+        "implementabile"
+      ],
+      "meaningDistractors": [
+        "补充使完整",
+        "雇用或使用",
+        "供给、助长"
+      ],
+      "examples": [
+        {
+          "form": "implementare una funzione",
+          "text": "Gli sviluppatori implementeranno il nuovo filtro nel prossimo sprint.",
+          "translation": "开发人员将在下个冲刺中实现新过滤器。",
+          "note": "技术语境：实现功能。"
+        },
+        {
+          "form": "implementare una strategia",
+          "text": "Definire la strategia non basta: bisogna anche implementarla.",
+          "translation": "定义战略还不够，还必须落实它。",
+          "note": "商业语境：执行战略。"
+        },
+        {
+          "form": "essere implementato",
+          "text": "Il cambiamento è stato implementato gradualmente.",
+          "translation": "这项变化是逐步实施的。",
+          "note": "被动式常用于项目汇报。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «La policy è stata implementata», implementare significa…",
+        "options": [
+          "把政策实际落实",
+          "对政策作补充说明",
+          "雇人撰写政策",
+          "为政策提供资金"
+        ],
+        "answer": "把政策实际落实",
+        "explanation": "implementare 强调从方案进入实际执行；在意大利职场和技术语境中很常见。"
+      }
+    },
+    {
+      "id": "VF-038",
+      "lemma": "negoziare",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "discutere condizioni e interessi per arrivare a un accordo",
+      "definitionZh": "就条件和利益进行谈判以达成协议",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "negare",
+        "noleggiare",
+        "neutralizzare"
+      ],
+      "family": [
+        "negoziazione",
+        "negoziatore"
+      ],
+      "meaningDistractors": [
+        "否认、拒绝",
+        "租赁",
+        "使无效、中和"
+      ],
+      "examples": [
+        {
+          "form": "negoziare un contratto",
+          "text": "Abbiamo negoziato il contratto per quasi due mesi.",
+          "translation": "我们为合同谈判了将近两个月。",
+          "note": "及物：谈判某项协议。"
+        },
+        {
+          "form": "negoziare con",
+          "text": "Il team locale negozierà con i distributori.",
+          "translation": "本地团队将与经销商谈判。",
+          "note": "con 引出谈判对象。"
+        },
+        {
+          "form": "negoziare su",
+          "text": "Sul prezzo possiamo negoziare, ma non sulla qualità.",
+          "translation": "价格可以谈，但质量不能妥协。",
+          "note": "su 引出可谈判的事项。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Possiamo negoziare sulla scadenza», negoziare su significa…",
+        "options": [
+          "就截止日期的条件进行协商",
+          "否认存在截止日期",
+          "租用一段时间",
+          "取消截止日期的效力"
+        ],
+        "answer": "就截止日期的条件进行协商",
+        "explanation": "negoziare su qualcosa 是就某事项谈条件，并不等于直接接受或取消。"
+      }
+    },
+    {
+      "id": "VF-039",
+      "lemma": "convincere",
+      "level": "B1",
+      "pos": "verbo",
+      "definitionIt": "portare qualcuno a credere o a fare qualcosa attraverso argomenti",
+      "definitionZh": "通过理由使某人相信或采取行动",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "convenire",
+        "convivere",
+        "convergere"
+      ],
+      "family": [
+        "convinzione",
+        "convincente"
+      ],
+      "meaningDistractors": [
+        "值得、同意或方便",
+        "共同生活",
+        "趋同、汇聚"
+      ],
+      "examples": [
+        {
+          "form": "convincere qualcuno",
+          "text": "I dati hanno convinto il cliente.",
+          "translation": "数据说服了客户。",
+          "note": "直接宾语是被说服的人。"
+        },
+        {
+          "form": "convincere qualcuno a",
+          "text": "Abbiamo convinto il team a testare una versione più semplice.",
+          "translation": "我们说服团队测试一个更简单的版本。",
+          "note": "a + 不定式表示采取的行动。"
+        },
+        {
+          "form": "convincersi di / che",
+          "text": "Mi sono convinto che fosse necessario cambiare approccio.",
+          "translation": "我逐渐确信有必要改变方法。",
+          "note": "代词式：自己形成确信。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Mi sono convinto che avesse ragione», convincersi significa…",
+        "options": [
+          "逐渐确信、自己相信",
+          "说服了另一个人",
+          "与某人达成一致",
+          "和某人共同生活"
+        ],
+        "answer": "逐渐确信、自己相信",
+        "explanation": "convincersi 是主体自己形成确信；convincere qualcuno 才是说服别人。"
+      }
+    },
+    {
+      "id": "VF-040",
+      "lemma": "scadenza",
+      "level": "B1",
+      "pos": "nome femminile",
+      "definitionIt": "termine entro cui fare qualcosa; data in cui un diritto, pagamento o prodotto cessa di essere valido",
+      "definitionZh": "截止日期；付款、权利或产品的到期日",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "cadenza",
+        "eccedenza",
+        "scarsità"
+      ],
+      "family": [
+        "scadere",
+        "scaduto"
+      ],
+      "meaningDistractors": [
+        "节奏、频率",
+        "超出部分",
+        "稀缺"
+      ],
+      "examples": [
+        {
+          "form": "rispettare una scadenza",
+          "text": "Per rispettare la scadenza, ridurremo l'ambito del primo rilascio.",
+          "translation": "为了按期交付，我们会缩小首版范围。",
+          "note": "项目截止日期。"
+        },
+        {
+          "form": "essere in scadenza",
+          "text": "Il contratto è in scadenza alla fine del mese.",
+          "translation": "合同将在月底到期。",
+          "note": "即将到期。"
+        },
+        {
+          "form": "data di scadenza",
+          "text": "Controlla la data di scadenza del certificato digitale.",
+          "translation": "检查数字证书的到期日。",
+          "note": "产品、证书或付款的失效日期。"
+        }
+      ],
+      "challenge": {
+        "type": "sense",
+        "prompt": "In «Il contratto è in scadenza», scadenza indica…",
+        "options": [
+          "合同即将到期",
+          "合同的付款节奏",
+          "合同金额超支",
+          "合同资源不足"
+        ],
+        "answer": "合同即将到期",
+        "explanation": "essere in scadenza 表示临近有效期终点；不是项目交付动作本身。"
+      }
+    },
+    {
+      "id": "VF-041",
+      "lemma": "riscontro",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "conferma o corrispondenza; risposta o feedback ricevuto",
+      "definitionZh": "核实、对应证据；收到的反馈或回应",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "media",
+      "lookalikes": [
+        "scontro",
+        "riscatto",
+        "riscontrare"
+      ],
+      "family": [
+        "riscontrare",
+        "controprova"
+      ],
+      "meaningDistractors": [
+        "冲突、碰撞",
+        "赎回、翻身",
+        "作为动词的核实"
+      ],
+      "examples": [
+        {
+          "form": "avere un riscontro",
+          "text": "Non abbiamo ancora avuto un riscontro dal cliente.",
+          "translation": "我们还没有收到客户的反馈。",
+          "note": "职场常用：收到回复。"
+        },
+        {
+          "form": "trovare riscontro",
+          "text": "L'ipotesi trova riscontro nei dati delle interviste.",
+          "translation": "访谈数据为这一假设提供了印证。",
+          "note": "找到证据支持。"
+        },
+        {
+          "form": "riscontro positivo",
+          "text": "La proposta ha ricevuto un riscontro positivo dal mercato.",
+          "translation": "该方案获得了市场的积极反馈。",
+          "note": "反馈结果。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Completa la collocazione: «Non abbiamo ancora ___ un riscontro dal cliente.»",
+        "options": [
+          "avuto",
+          "fatto",
+          "preso",
+          "tenuto"
+        ],
+        "answer": "avuto",
+        "explanation": "avere/ricevere un riscontro 都自然；fare un riscontro 不用于表示收到反馈。"
+      }
+    },
+    {
+      "id": "VF-042",
+      "lemma": "margine",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "spazio laterale; differenza economica; possibilità residua di azione o errore",
+      "definitionZh": "边缘、利润空间；可操作余地或误差范围",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "argine",
+        "immagine",
+        "marginale"
+      ],
+      "family": [
+        "marginale",
+        "marginalità"
+      ],
+      "meaningDistractors": [
+        "堤坝、屏障",
+        "图像",
+        "次要的、边缘的"
+      ],
+      "examples": [
+        {
+          "form": "margine di profitto",
+          "text": "Il margine di profitto è diminuito nonostante l'aumento delle vendite.",
+          "translation": "尽管销售增长，利润率却下降了。",
+          "note": "商业财务语境。"
+        },
+        {
+          "form": "margine di manovra",
+          "text": "Abbiamo poco margine di manovra sul prezzo.",
+          "translation": "我们在价格上的操作空间很小。",
+          "note": "谈判余地。"
+        },
+        {
+          "form": "margine di errore",
+          "text": "La stima ha un margine di errore del 3%.",
+          "translation": "该估算的误差范围为3%。",
+          "note": "统计或测量语境。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Durante la trattativa avevamo pochissimo margine di ___.",
+        "options": [
+          "manovra",
+          "movimento",
+          "guida",
+          "gestione"
+        ],
+        "answer": "manovra",
+        "explanation": "margine di manovra 是固定搭配，表示行动或谈判的余地。"
+      }
+    },
+    {
+      "id": "VF-043",
+      "lemma": "andamento",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "modo in cui un fenomeno cambia nel tempo; svolgimento complessivo",
+      "definitionZh": "某现象随时间的发展趋势；整体进展",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "adempimento",
+        "adattamento",
+        "avviamento"
+      ],
+      "family": [
+        "andare",
+        "andamento"
+      ],
+      "meaningDistractors": [
+        "履行义务",
+        "适应、调整",
+        "启动、开办"
+      ],
+      "examples": [
+        {
+          "form": "andamento delle vendite",
+          "text": "Il grafico mostra l'andamento delle vendite negli ultimi dodici mesi.",
+          "translation": "图表展示过去十二个月的销售走势。",
+          "note": "时间序列趋势。"
+        },
+        {
+          "form": "andamento del progetto",
+          "text": "Il comitato è soddisfatto dell'andamento del progetto.",
+          "translation": "委员会对项目进展感到满意。",
+          "note": "整体推进情况。"
+        },
+        {
+          "form": "andamento altalenante",
+          "text": "La domanda ha avuto un andamento altalenante.",
+          "translation": "需求走势起伏不定。",
+          "note": "altalenante：上下波动的。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Il grafico mostra l'___ delle vendite trimestre dopo trimestre.",
+        "options": [
+          "andamento",
+          "adempimento",
+          "adattamento",
+          "avviamento"
+        ],
+        "answer": "andamento",
+        "explanation": "andamento 描述指标随时间的走势；adempimento 是履行合同或义务。"
+      }
+    },
+    {
+      "id": "VF-044",
+      "lemma": "ambito",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "settore, campo o contesto delimitato di attività e competenza",
+      "definitionZh": "领域、范围或特定活动情境",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "abito",
+        "abitato",
+        "ambiente"
+      ],
+      "family": [
+        "ambito professionale",
+        "ambito applicativo"
+      ],
+      "meaningDistractors": [
+        "衣服或我居住",
+        "有人居住的",
+        "环境"
+      ],
+      "examples": [
+        {
+          "form": "in ambito aziendale",
+          "text": "La ricerca è stata condotta in ambito aziendale.",
+          "translation": "这项研究是在企业环境中开展的。",
+          "note": "in ambito + 形容词。"
+        },
+        {
+          "form": "ambito di applicazione",
+          "text": "Dobbiamo chiarire l'ambito di applicazione della policy.",
+          "translation": "我们必须明确政策的适用范围。",
+          "note": "scope 的正式表达。"
+        },
+        {
+          "form": "nell'ambito di",
+          "text": "L'iniziativa nasce nell'ambito di un programma europeo.",
+          "translation": "该倡议诞生于一个欧洲项目框架内。",
+          "note": "表示在某计划或活动范围内。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "La soluzione è stata testata ___ ambito sanitario.",
+        "options": [
+          "in",
+          "a",
+          "su",
+          "per"
+        ],
+        "answer": "in",
+        "explanation": "标准搭配是 in ambito sanitario/aziendale；如果后面是具体项目，则常用 nell'ambito di。"
+      }
+    },
+    {
+      "id": "VF-045",
+      "lemma": "vincolo",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "limite, obbligo o condizione che restringe le possibilità",
+      "definitionZh": "限制条件、约束或必须遵守的义务",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "vicolo",
+        "veicolo",
+        "vincita"
+      ],
+      "family": [
+        "vincolare",
+        "vincolante"
+      ],
+      "meaningDistractors": [
+        "小巷",
+        "车辆或媒介",
+        "中奖、胜利所得"
+      ],
+      "examples": [
+        {
+          "form": "vincolo di budget",
+          "text": "Il principale vincolo di budget riguarda la fase di produzione.",
+          "translation": "主要预算限制出现在生产阶段。",
+          "note": "项目约束。"
+        },
+        {
+          "form": "vincolo normativo",
+          "text": "Il servizio deve rispettare diversi vincoli normativi.",
+          "translation": "服务必须遵守多项法规限制。",
+          "note": "法律合规语境。"
+        },
+        {
+          "form": "essere vincolato a",
+          "text": "Il pagamento è vincolato al raggiungimento dei risultati.",
+          "translation": "付款以达成结果为条件。",
+          "note": "vincolato a：受制于、以……为条件。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Il rilascio è vincolato ___ approvazione del reparto legale.",
+        "options": [
+          "all'",
+          "dall'",
+          "nell'",
+          "sull'"
+        ],
+        "answer": "all'",
+        "explanation": "essere vincolato a qualcosa 表示以某条件为前提；a + l'approvazione = all'approvazione。"
+      }
+    },
+    {
+      "id": "VF-046",
+      "lemma": "esito",
+      "level": "B2",
+      "pos": "nome maschile",
+      "definitionIt": "risultato finale, positivo o negativo, di un processo, esame o tentativo",
+      "definitionZh": "过程、检查或尝试的最终结果，可好可坏",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "esitare",
+        "esigenza",
+        "esilio"
+      ],
+      "family": [
+        "esitare",
+        "esito positivo"
+      ],
+      "meaningDistractors": [
+        "犹豫",
+        "需求、必要条件",
+        "流放"
+      ],
+      "examples": [
+        {
+          "form": "esito positivo",
+          "text": "Il test si è concluso con esito positivo.",
+          "translation": "测试以积极结果结束。",
+          "note": "正式报告常用。"
+        },
+        {
+          "form": "in attesa dell'esito",
+          "text": "Siamo in attesa dell'esito della selezione.",
+          "translation": "我们正在等待选拔结果。",
+          "note": "求职场景高频。"
+        },
+        {
+          "form": "avere esito",
+          "text": "Il tentativo di mediazione non ha avuto esito.",
+          "translation": "调解尝试没有取得结果。",
+          "note": "avere esito：取得结果。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "La sperimentazione si è conclusa ___ esito positivo.",
+        "options": [
+          "con",
+          "a",
+          "di",
+          "per"
+        ],
+        "answer": "con",
+        "explanation": "concludersi con esito positivo/negativo 是固定的正式搭配。"
+      }
+    },
+    {
+      "id": "VF-047",
+      "lemma": "fattibile",
+      "level": "B2",
+      "pos": "aggettivo",
+      "definitionIt": "che può essere realizzato con le risorse e i vincoli disponibili",
+      "definitionZh": "在现有资源和约束下可行的",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "fattuale",
+        "fatale",
+        "fittizio"
+      ],
+      "family": [
+        "fattibilità",
+        "fare"
+      ],
+      "meaningDistractors": [
+        "基于事实的",
+        "致命的、命中注定的",
+        "虚构的"
+      ],
+      "examples": [
+        {
+          "form": "soluzione fattibile",
+          "text": "La proposta è interessante, ma non ancora fattibile tecnicamente.",
+          "translation": "方案很有意思，但技术上还不可行。",
+          "note": "可执行性判断。"
+        },
+        {
+          "form": "studio di fattibilità",
+          "text": "Prima dell'investimento condurremo uno studio di fattibilità.",
+          "translation": "投资前我们将进行可行性研究。",
+          "note": "词族搭配。"
+        },
+        {
+          "form": "rendere fattibile",
+          "text": "Una riduzione dell'ambito renderebbe fattibile il lancio a giugno.",
+          "translation": "缩小范围将使六月上线变得可行。",
+          "note": "条件式表达假设结果。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Prima di investire serve uno studio di ___.",
+        "options": [
+          "fattibilità",
+          "fattualità",
+          "fatalità",
+          "finzione"
+        ],
+        "answer": "fattibilità",
+        "explanation": "studio di fattibilità 是可行性研究；fattuale 及其名词不表达能否实施。"
+      }
+    },
+    {
+      "id": "VF-048",
+      "lemma": "efficace",
+      "level": "B1",
+      "pos": "aggettivo",
+      "definitionIt": "capace di produrre l'effetto desiderato; diverso da efficiente, che riguarda l'uso delle risorse",
+      "definitionZh": "能够产生预期效果的；不同于强调资源效率的 efficiente",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "efficiente",
+        "effettivo",
+        "affidabile"
+      ],
+      "family": [
+        "efficacia",
+        "efficacemente"
+      ],
+      "meaningDistractors": [
+        "资源使用高效的",
+        "实际的、有效在职的",
+        "可靠的"
+      ],
+      "examples": [
+        {
+          "form": "soluzione efficace",
+          "text": "La soluzione è efficace perché riduce davvero gli errori.",
+          "translation": "这个方案有效，因为它确实减少了错误。",
+          "note": "关注是否达到目标。"
+        },
+        {
+          "form": "processo efficiente",
+          "text": "Il processo è efficiente: usa meno tempo e meno risorse.",
+          "translation": "这个流程效率高：耗时和资源更少。",
+          "note": "与 efficace 对比：资源效率。"
+        },
+        {
+          "form": "comunicare efficacemente",
+          "text": "Per comunicare efficacemente, parti dal risultato principale.",
+          "translation": "为了有效沟通，先从主要结果讲起。",
+          "note": "副词形式 efficacemente。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Il metodo raggiunge l'obiettivo, quindi è ___; usa anche poche risorse, quindi è efficiente.",
+        "options": [
+          "efficace",
+          "effettivo",
+          "affidabile",
+          "fattuale"
+        ],
+        "answer": "efficace",
+        "explanation": "efficace 回答“是否达成效果”；efficiente 回答“资源用得是否经济”。"
+      }
+    },
+    {
+      "id": "VF-049",
+      "lemma": "approfondire",
+      "level": "B2",
+      "pos": "verbo",
+      "definitionIt": "esaminare o sviluppare un tema con maggiore profondità e dettaglio",
+      "definitionZh": "深入研究、进一步展开某个主题",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "alta",
+      "lookalikes": [
+        "apprendere",
+        "affrontare",
+        "approvare"
+      ],
+      "family": [
+        "approfondimento",
+        "profondo"
+      ],
+      "meaningDistractors": [
+        "学习获知",
+        "面对处理",
+        "批准"
+      ],
+      "examples": [
+        {
+          "form": "approfondire un tema",
+          "text": "Vorrei approfondire il tema durante il prossimo incontro.",
+          "translation": "我想在下次会议中深入讨论这个主题。",
+          "note": "进一步研究或讨论。"
+        },
+        {
+          "form": "domanda di approfondimento",
+          "text": "Il recruiter mi ha fatto una domanda di approfondimento sul progetto.",
+          "translation": "招聘人员就项目向我提出了一个深入追问。",
+          "note": "面试追问。"
+        },
+        {
+          "form": "per approfondire",
+          "text": "Per approfondire, abbiamo intervistato altri cinque utenti.",
+          "translation": "为了进一步了解，我们又访谈了五名用户。",
+          "note": "说明补充调查的目的。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "Nel secondo colloquio vorrei ___ il tema della gestione degli stakeholder.",
+        "options": [
+          "approfondire",
+          "apprendere",
+          "approvare",
+          "affrontarsi"
+        ],
+        "answer": "approfondire",
+        "explanation": "approfondire un tema 表示更深入地讨论；affrontare 也可处理主题，但不强调继续深入。"
+      }
+    },
+    {
+      "id": "VF-050",
+      "lemma": "perseguire",
+      "level": "C1",
+      "pos": "verbo",
+      "definitionIt": "cercare con continuità di raggiungere un obiettivo; anche avviare un'azione giudiziaria",
+      "definitionZh": "持续追求目标；也可表示依法追诉",
+      "levelSource": "selezione editoriale Italiano Flow",
+      "levelConfidence": "media",
+      "lookalikes": [
+        "proseguire",
+        "conseguire",
+        "seguire"
+      ],
+      "family": [
+        "perseguimento",
+        "perseguibile"
+      ],
+      "meaningDistractors": [
+        "继续进行",
+        "取得成果或学位",
+        "跟随、关注"
+      ],
+      "examples": [
+        {
+          "form": "perseguire un obiettivo",
+          "text": "L'organizzazione persegue obiettivi sociali oltre a quelli economici.",
+          "translation": "该组织除经济目标外还追求社会目标。",
+          "note": "正式、持续地追求。"
+        },
+        {
+          "form": "perseguire una strategia",
+          "text": "Abbiamo perseguito una strategia di crescita graduale.",
+          "translation": "我们推行了一项渐进增长战略。",
+          "note": "持续贯彻路线。"
+        },
+        {
+          "form": "perseguire penalmente",
+          "text": "La violazione può essere perseguita penalmente.",
+          "translation": "该违规行为可能受到刑事追诉。",
+          "note": "法律义项，常见被动。"
+        }
+      ],
+      "challenge": {
+        "type": "phrase",
+        "prompt": "L'impresa intende ___ una strategia di espansione sostenibile.",
+        "options": [
+          "perseguire",
+          "proseguire",
+          "conseguire",
+          "seguire"
+        ],
+        "answer": "perseguire",
+        "explanation": "perseguire una strategia/un obiettivo 表示持续贯彻；proseguire 通常是不及物或 proseguire con。"
+      }
+    }
+  ]
+}

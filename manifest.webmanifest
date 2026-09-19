@@ -1,0 +1,19 @@
+{
+  "name": "Italiano Flow",
+  "short_name": "Italiano Flow",
+  "description": "Italiano per il lavoro, ogni giorno nel contesto.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#173b45",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

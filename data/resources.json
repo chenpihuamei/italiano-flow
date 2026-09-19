@@ -1,0 +1,282 @@
+[
+  {
+    "id": "istat-business-0-I0lzdGF0",
+    "source": "Istat Imprese",
+    "title": "#IstatNewsletter",
+    "description": "Online il numero 29 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+    "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-1-SW5kaWNh",
+    "source": "Istat Imprese",
+    "title": "Indicatori territoriali per le politiche di sviluppo",
+    "description": "Online l'aggiornamento del sistema informativo territoriale",
+    "url": "https://www.istat.it/sistema-informativo-6/banca-dati-territoriale-per-le-politiche-di-sviluppo/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2+",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-2-U3RydXR0",
+    "source": "Istat Imprese",
+    "title": "Struttura e performance economica delle imprese esportatrici (TEC-FrameSBS) &#8211; Anni 2013-2024",
+    "description": "La base dati micro TEC-FrameSBS, prodotta annualmente a partire dal 2013 e aggiornata al 2024, integra le informazioni presenti nell’archivio delle imprese esportatrici",
+    "url": "https://www.istat.it/microdati-integrati/struttura-e-performance-economica-delle-imprese-esportatrici-tec-framesbs-anno-2013/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-3-QW5udWFy",
+    "source": "Istat Imprese",
+    "title": "Annuario statistico Istat-ICE 2026",
+    "description": "Giovedì 16 luglio 2026 presentazione dell'Annuario statistico Istat-ICE 2026. L'iniziativa ricade nell'anno del centenario di fondazione dei due istituti",
+    "url": "https://www.istat.it/evento/annuario-statistico-istat-ice-2026/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-4-TGUgcmVs",
+    "source": "Istat Imprese",
+    "title": "Le relazioni di corrispondenza tra le classificazioni ATECO 2025 e ATECO 2022: aggiornamento 2026",
+    "description": "Online l’aggiornamento al 2026 delle relazioni (teoriche e operative) di corrispondenza tra ATECO 2025 e ATECO 2022",
+    "url": "https://www.istat.it/notizia/relazioni-corrispondenza-ateco-2025-ateco-2022-aggiornamento-2026/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-5-RGVtb2dy",
+    "source": "Istat Imprese",
+    "title": "Demografia d&#8217;impresa &#8211; Anni 2019-2024",
+    "description": "La demografia d’impresa misura la numerosità delle imprese e le componenti che ne trasformano la struttura da un periodo ad un altro",
+    "url": "https://www.istat.it/tavole-di-dati/demografia-dimpresa-anni-2019-2024/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-6-SW5mb2dy",
+    "source": "Istat Imprese",
+    "title": "Infografica sull&#8217;andamento dell’economia italiana Maggio &#8211; Giugno 2026",
+    "description": "Online l'infografica sull'andamento dell'economia italiana dei mesi di maggio e giugno 2026",
+    "url": "https://www.istat.it/infografiche/infografica-sullandamento-delleconomia-italiana-maggio-giugno-2026/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-business-7-TGEgdGVj",
+    "source": "Istat Imprese",
+    "title": "La tecnologia e il sistema produttivo",
+    "description": "Al Censimento economico del 1927 solo il 9,9% delle imprese disponeva di forza motrice",
+    "url": "https://www.istat.it/produzione-editoriale/tecnologia/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-0-UG9zdGkg",
+    "source": "Istat Lavoro",
+    "title": "Posti vacanti nelle imprese dell’industria e dei servizi – stime preliminari II trimestre 2026",
+    "description": "L’Istat rende disponibili online le stime preliminari del tasso di posti vacanti riferite al secondo trimestre 2026, per tutte le imprese con dipendenti dell’industria e dei servizi",
+    "url": "https://www.istat.it/sistema-informativo-6/posti-vacanti-nelle-imprese-dellindustria-e-dei-servizi-stime-preliminari-ii-trimestre-2026/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-1-TWVyY2F0",
+    "source": "Istat Lavoro",
+    "title": "Mercato del lavoro e redditi: un’analisi integrata &#8211; Anno 2024",
+    "description": "Istat presenta un’analisi che integra informazioni sul reddito delle famiglie e sullo stato occupazionale degli individui",
+    "url": "https://www.istat.it/comunicato-stampa/mercato-del-lavoro-e-redditi-unanalisi-integrata-anno-2024/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-2-SW5mb2dy",
+    "source": "Istat Lavoro",
+    "title": "Infografiche Storie di dati: I percorsi di vita delle generazioni",
+    "description": "Online le infografiche che illustrano le trasformazioni dell’Italia in tema di percorsi di vita delle generazioni",
+    "url": "https://www.istat.it/infografiche/infografiche-storie-di-dati-i-percorsi-di-vita-delle-generazioni/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-3-T2NjdXBh",
+    "source": "Istat Lavoro",
+    "title": "Occupati e disoccupati (dati provvisori)- Giugno 2026",
+    "description": "A giugno 2026 occupazione sostanzialmente stabile. Sale il tasso di disoccupazione al 5,7% (+0,4 punti percentuali)",
+    "url": "https://www.istat.it/comunicato-stampa/occupati-e-disoccupati-dati-provvisori-giugno-2026/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B2+",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-4-UmV0cmli",
+    "source": "Istat Lavoro",
+    "title": "Retribuzioni contrattuali &#8211; Aprile &#8211; giugno 2026",
+    "description": "A giugno 2026 retribuzioni contrattuali +0,5 su maggio e +2,4% in un anno",
+    "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-aprile-giugno-2026/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-5-I0lzdGF0",
+    "source": "Istat Lavoro",
+    "title": "#IstatNewsletter",
+    "description": "Online il numero 29 del 2026. Lascia la tua email e riceverai ogni lunedì tutti gli aggiornamenti del sito Istat",
+    "url": "https://www.istat.it/newsletter/online-istatnewsletter-la-newsletter-dellistat/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B1/B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-6-R2xpIGFn",
+    "source": "Istat Lavoro",
+    "title": "Gli agglomerati morfologici urbani (AMU) &#8211; Anni 2001, 2011, 2021",
+    "description": "Nel 2021 sono stati individuati 2.623 Agglomerati morfologici urbani; erano 2.740 nel 2011 e 2.707 nel 2001",
+    "url": "https://www.istat.it/comunicato-stampa/gli-agglomerati-morfologici-urbani-amu-anni-2001-2011-2021/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B2",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "istat-work-7-SW5kaWNh",
+    "source": "Istat Lavoro",
+    "title": "Indicatori territoriali per le politiche di sviluppo",
+    "description": "Online l'aggiornamento del sistema informativo territoriale",
+    "url": "https://www.istat.it/sistema-informativo-6/banca-dati-territoriale-per-le-politiche-di-sviluppo/",
+    "type": "article",
+    "topics": [
+      "work",
+      "business"
+    ],
+    "level": "B2+",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "seed-istat-ict",
+    "source": "Istat",
+    "title": "Imprese e ICT — adozione dell’IA in Italia",
+    "description": "Dati ufficiali su imprese, competenze digitali, IA e differenze tra PMI e grandi organizzazioni.",
+    "url": "https://www.istat.it/comunicato-stampa/imprese-e-ict-anno-2025/",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology",
+      "work"
+    ],
+    "level": "B2+",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "seed-eu-business",
+    "source": "Parlamento europeo",
+    "title": "Mercato interno, industria e trasformazione digitale",
+    "description": "Aggiornamenti in italiano utili per lessico istituzionale, economico e professionale.",
+    "url": "https://www.europarl.europa.eu/topics/it/topic/internal-market-industry",
+    "type": "article",
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "level": "B2+",
+    "usage": "link + metadati"
+  },
+  {
+    "id": "seed-eu-video",
+    "source": "Parlamento europeo",
+    "title": "Video e dibattiti in italiano",
+    "description": "Interventi formali con più parlanti; utili per ascolto B2, accenti e voci mature.",
+    "url": "https://multimedia.europarl.europa.eu/it",
+    "type": "video",
+    "topics": [
+      "video",
+      "work"
+    ],
+    "level": "B2+",
+    "usage": "link; sottotitoli se offerti"
+  },
+  {
+    "id": "seed-podcast-italiano",
+    "source": "Podcast Italiano",
+    "title": "Podcast e video per ascolto naturale",
+    "description": "Materiale autentico per studenti avanzati. Aprire sul sito originale e verificare la disponibilità della trascrizione.",
+    "url": "https://www.podcastitaliano.com/",
+    "type": "audio",
+    "topics": [
+      "work"
+    ],
+    "level": "B2",
+    "usage": "link-only"
+  }
+]
